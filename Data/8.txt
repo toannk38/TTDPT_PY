@@ -1,0 +1,130 @@
+Hey! I have moved my blog to my personal site. The “official” version of this post is available here: https://blog.pshrmn.com/a-little-bit-of-history/
+If you wish to understand React Router, you must first study history. More specifically, the history package, which provides the core functionality for React Router. It enables projects to easily add location based navigation on the client-side, which is essential for single page applications.
+npm install --save history
+There are three types of history: browser, hash, and memory. The history package exports methods to create each type.
+import {
+  createBrowserHistory,
+  createHashHistory,
+  createMemoryHistory
+} from 'history'
+If you are using React Router, it can automatically create history objects for you, so you may never have to actually interact with history directly. Still, it is important to understand the differences between each type of history so that you can determine which one is right for your project.
+What is history?
+No matter which type of history you create, you will end up with an object that has nearly the same properties and methods.
+Location
+The most important property of a history object is the location. The location object reflects “where” your application currently is. It contains a number of properties that are derived from a URL. These are pathname, search[1], and hash.
+Additionally, each location has a unique key property associated with it. This key can be used to identify and store data specific to a location.
+Finally, a location can have state associated with it. This provides a means of attaching data to a location that is not present in the URL.
+{
+  pathname: '/here',
+  search: '?key=value',
+  hash: '#extra-information',
+  state: { modal: true },
+  key: 'abc123'
+}
+When a history object is created, it will need an initial location. How this is determined is different for each type of history. For example, the browser history will parse the current URL.
+One location to rule them all?
+While there is only one current location that we can access, the history object keeps track of an array of locations. The ability to add locations and move throughout the location array is what makes history “history”. If history only knew about the current location, it would be more aptly named “present”.
+In addition to an array of locations, the history also maintains an index value, which refers to the position of current location in the array.
+For the memory history, these are explicitly defined. For both the browser and hash histories, the array and index is controlled by the browser and cannot be directly accessed [2].
+Navigation
+An object with a location property isn’t particularly exciting. Where a history object starts to become interesting is with the navigation methods. Navigation methods allow you to change the current location.
+Push
+The push method allows you to go to a new location. This will add a new location to the array after the current location. When this happens, any “future” locations (ones that exist in the array after the current location because of use of the back button) will be dropped.
+By default, when you click on a <Link> from React Router, it will use history.push to navigate.
+history.push({ pathname: '/new-place' })
+Replace
+The replace method is similar to push, but instead of adding a new location, it will replace the location at the current index. “Future” locations will not be dropped.
+Redirects are a good time to use replace. This is what React Router’s <Redirect> component uses.
+For example, if you are on one page and click a link that navigates to a second page, that second page might redirect to a third page. If the redirect uses push, clicking the back button from the third will bring you back to the second page (which potentially would redirect you back to the third page again). Instead, by using replace, going back from the third page will take you to the first.
+history.replace({ pathname: '/go-here-instead' })
+Go, go, go
+Finally, there are three related methods: goBack, goForward, and go.
+goBack goes back one page. This essentially decrements the index in the locations array by one.
+history.goBack()
+goForward is the opposite of goBack, going forward one page. It will only work when there are “future” locations to go to, which happens when the user has clicked the back button.
+history.goForward()
+go is a more powerful combination of goBack and goForward. Negative numbers passed to the method will be used to go backwards in the array, and positive numbers will be used to go forward.
+history.go(-3)
+Listen!
+History uses the observer pattern to allow outside code to be notified when the location changes.
+Each history object has a listen method, which takes a function as its argument. That function will be added to an array of listener functions that the history stores. Any time the location changes (whether this is by your code calling one of the history methods or because a user clicked a browser button), the history object will call all of its listener functions. This allows you to setup code that will update whenever the location changes.
+const youAreHere = document.getElementById('youAreHere')
+history.listen(function(location) {
+  youAreHere.textContent = location.pathname
+})
+A React Router’s router component will subscribe to its history object so that it can re-render whenever the location changes.
+Linking things together
+Each history type also has a createHref method that can take a location object and output a URL.
+Internally, history can navigate using location objects. However, any code that is unaware of the history package, such as anchor elements (<a>), does not know what location objects are. In order to generate HTML that will still properly navigate without knowledge of history, we must be able to generate real URLs.
+const location = {
+  pathname: '/one-fish',
+  search: '?two=fish',
+  hash: '#red-fish-blue-fish'
+}
+const url = history.createHref(location)
+const link = document.createElement('a')
+a.href = url
+// <a href='/one-fish?two=fish#red-fish-blue-fish'></a>
+That covers the essential history API. There are a couple more properties and methods, but the above should be enough to have a solid understanding of how to work with a history object.
+With our powers combined
+There are some differences between the history types that you will need to consider when deciding which is best suited for your project. Between the three of them, any use case should be covered.
+In the Browser
+Browser and hash histories are both intended to be used in a browser. They interact with the history and location web APIs so that the current location is the same as the one displayed in your browser’s address bar.
+const browserHistory = createBrowserHistory()
+const hashHistory = createHashHistory()
+The biggest difference between the two is how they create a location from a URL. The browser history uses the full URL [3], while the hash history only uses the portion of the URL located after the first hash symbol.
+// Given the following URL
+url = 'http://www.example.com/this/is/the/path?key=value#hash'
+// a browser history creates the location object:
+{
+  pathname: '/this/is/the/path',
+  search: '?key=value',
+  hash: '#hash'
+}
+// a hash history creates the location object:
+{
+  pathname: 'hash',
+  search: '',
+  hash: ''
+}
+Hashing things out
+Why would you ever want to use a hash history? When you navigate to a URL, in theory there is a corresponding file on your server.
+For servers that can respond to dynamic requests, the requested file does not actually have to exist. Instead, the server will examine the requested URL and decide what HTML to respond with.
+However, a static file server can only return the files that exist on the disk. The most dynamic thing that a static server can do is to return the index.html file from a directory when the URL only specifies the directory.
+Update 4/25/18: I wrote a small article about Single-Page Applications and the Server that should help clarify the different ways a single-page application can be hosted.
+Given the limitations imposed by a static file server, the simplest solution [4] for serving your application is to only have one “real” location on your server to fetch your HTML from. Of course, only having one location means only having one URL for your application, which would defeat the purpose of using history. To get around this limitation, the hash history uses the hash section of the URL to set and read locations.
+// If example.com uses a static file server, these URLs would
+// both fetch html from /my-site/index.html
+http://www.example.com/my-site#/one
+http://www.example.com/my-site#/two
+// However, with a hash history, an application's location will be
+// different for each URL because the location is derived from
+// the hash section of the URL
+{ pathname: '/one' }
+{ pathname: '/two' }
+While the hash history works well, it can be considered a bit of a hack because of its reliance on the storing all of the path information in the hash of a URL. Therefore, it should only be considered when your website does not have a dynamic server to server your HTML.
+Memory: The Catch-all History
+The best thing about memory location is that you can use it anywhere that you can run JavaScript.
+A simple example is that you can use it in unit tests run via Node. That allows you to test code that relies on a history object without having to actually test with a browser.
+More importantly, you can also use a memory history in mobile apps. A memory history is used by react-router-native to enable location based navigation in react-native apps.
+If you really wanted, you could even use a memory history in the browser (although you would be losing the integration with the address bar).
+The biggest difference between the memory history and the browser and hash histories is that it maintains its own in-memory array of locations. When creating a memory history you can pass information to setup the initial state. This state would be an array of locations and the index of the “current” location in that array [5]. This is different from the browser and hash histories, which rely on the browser to already be storing the array of locations.
+const history = createMemoryHistory({
+  initialEntries: ['/', '/next', '/last'],
+  initialIndex: 0
+})
+While you can roll your own history equivalent code, there are a lot of little gotchas in how browsers handle navigation that can cause a headache. Instead, it is probably easier to rely on history to think about these things for you.
+No matter which history type you end up choosing you will end up with a simple to implement, but powerful way to perform navigation and location-based rendering in your application.
+Notes
+[1] The search property is a string instead of a parsed object. This is because there are different search string parsing packages that handle some cases slightly differently. Instead of imposing one way to parse search strings, history leaves it up to you to decide how to parse the string. If you are looking for a way to parse search strings, some popular options are qs, query-string, querystring, and the native URLSearchParams.
+[2] This restriction is out of security. The browser’s history’s location array contains more than just the locations that have been visited within your application. Allowing access to this list would leak information about a user’s browsing history that websites should not be allowed access to.
+[3] By default, the browser history creates location objects whose pathname is the URL’s full pathname. However, you can specify a basename for a history, in which case a portion of the full pathname will be effectively ignored.
+const history = createBrowserHistory({ basename: '/path' })
+// given the url: http://www.example.com/path/here
+// the history object will create the location
+{ pathname: '/here', ... }
+[4] Theoretically you could serve the same HTML file from every valid URL in your application. If all of your URLs are static, this could work, but it would create lots of redundant files. If any of your URLs use parameters to match a large number of possible values, this is infeasible.
+[5] If you do not provide a memory history with initial locations and index, it will fallback to default values:
+entries = [{ pathname: '/' }]
+index = 0
+This might be good enough for most applications, but being able to pre-populate the history can be very useful for things like session restoration.
