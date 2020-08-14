@@ -76,9 +76,10 @@ def decode(inp, out):
     file.close()
 
 
-def lzw(name):
-    data_path = 'Data/' + name + '.txt'
-    encode_path = 'Compressed/' + name + '_LZW.txt'
-    decode_path = 'Decompressed/' + name + '_LZW.txt'
-    encode(data_path, encode_path)
-    decode(encode_path, decode_path)
+def lzw(names):
+    for name in names:
+        data_path = 'Data/' + name + '.txt'
+        encode_path = 'Compressed/' + name + '_LZW.txt'
+        decode_path = 'Decompressed/' + name + '_LZW.txt'
+        encode(data_path, encode_path)
+        decode(encode_path, decode_path)

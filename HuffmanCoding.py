@@ -1,29 +1,27 @@
 import pandas as pd
 from collections import Counter
+from copy import deepcopy as cp
 
-def generate(bin_code = '', char = [],total = 0, _dict ={}):
-    if len(char) == 1:
-        _dict[char[0][1]] = bin_code
-        return
-    count = char[0][0]
-    i = 1
-    # while True:
-    #     left = count + char[i][0]
-    #     right = total - left
-    #     if left*2 > total:
-    #         if left*2-total >= total - count*2:
-    #             break
-    #     count += char[i][0]
-    #     i+=1
-    while True:
-        left = count + char[i][0]
-        right = total - left
-        if left*2 > total:
-                break
-        count += char[i][0]
-        i+=1
-    generate(bin_code+'0',char[:i],count,_dict)
-    generate(bin_code+'1',char[i:],total-count,_dict)
+import heapq
+class Node:
+    def __init__(self,freq = 0,p = ''):
+        self.freq = freq
+        self.p = p
+    def __lt__(self,other):
+        return self.freq < other.freq
+
+def generate(bin_code = '', node = Node() , _dict ={}):
+
+    #if p is leaf, p[1] is symbol, p[0] is frequency of p[1]
+    if isinstance(node.p,str):
+        _dict[node.p] = bin_code
+    else:
+        #generate binary code for children node of p
+
+        generate(bin_code+'0', node.p[0],_dict)
+        generate(bin_code+'1', node.p[1],_dict)
+
+
 def encode(inp,out):
     #read data
     with open(inp) as f:
@@ -35,15 +33,25 @@ def encode(inp,out):
     count = Counter(content)
 
     total = sum(count.values())
-    char = [x[::-1] for x in list(count.items())]
 
-    #sort
-    char.sort(reverse=True)
+    #char is list of frequency and symbol [(freq,sym)]
+    char = [Node(x[1],x[0]) for x in list(count.items())]
+
+    #transform to heap
+    heapq.heapify(char)
+    while len(char) > 1:
+        #pop two
+        a = heapq.heappop(char)
+        b = heapq.heappop(char)
+
+        #create parent node for a and b
+        p = Node(a.freq+b.freq,(a,b))
+        #push parent node to heap
+        heapq.heappush(char,p)
 
     #create dictionary
     _dict = dict()
-    generate('',char,total,_dict)
-
+    generate(bin_code = '',node = char[0],_dict = _dict)
     #encode
     code = ''
     for c in content:
@@ -64,6 +72,7 @@ def encode(inp,out):
     encoded = {'keys': list(keys), 'values': list(values)}
     df = pd.DataFrame(encoded)
     df.to_csv(dict_path, index=False)
+
 
 def decode(inp, out):
     dict_path = inp[:-4] + '_dict.csv'
@@ -94,10 +103,10 @@ def decode(inp, out):
     file.write(output)
     file.close()
 
-def sf(names):
+def hc(names):
     for name in names:
         data_path = 'Data/' + name + '.txt'
-        encode_path = 'Compressed/' + name + '_SF.txt'
-        decode_path = 'Decompressed/' + name + '_SF.txt'
+        encode_path = 'Compressed/' + name + '_HC.txt'
+        decode_path = 'Decompressed/' + name + '_HC.txt'
         encode(data_path, encode_path)
         decode(encode_path, decode_path)

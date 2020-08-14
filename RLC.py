@@ -16,7 +16,7 @@ def encode(inp,out):
 
     #compress data
     for c in content:
-        if curr_sym != c:
+        if curr_sym != c or fre[-1] == 15:
             sym.append(c)
             fre.append(1)
             curr_sym = c
@@ -28,7 +28,13 @@ def encode(inp,out):
     df = pd.DataFrame(compressed)
     df.to_csv(out,index = False)
 
-
+    '''
+    data using 8 bits for every symbol
+    encode using 8 bits for symbol and 4 bits for frequency (frequency <=15)
+    '''
+    bits_data = len(content*8)
+    bits_compressed = len(fre)*12
+    return bits_data, bits_compressed
 def decode(inp,out):
     data = pd.read_csv(inp)
     sym = list(data['symbol'])
@@ -42,9 +48,11 @@ def decode(inp,out):
     file.write(s)
     file.close()
 
-def rlc(name):
-    data_path = 'Data/'+name+'.txt'
-    encode_path = 'Compressed/'+name+'_RLC.txt'
-    decode_path = 'Decompressed/'+name+'_RLC.txt'
-    encode(data_path,encode_path)
-    decode(encode_path,decode_path)
+def rlc(names):
+    for name in names:
+        data_path = 'Data/'+name+'.txt'
+        encode_path = 'Compressed/'+name+'_RLC.txt'
+        decode_path = 'Decompressed/'+name+'_RLC.txt'
+        bits = encode(data_path,encode_path)
+        decode(encode_path,decode_path)
+        return bits
