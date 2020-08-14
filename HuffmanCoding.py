@@ -3,6 +3,7 @@ from collections import Counter
 from copy import deepcopy as cp
 
 import heapq
+
 class Node:
     def __init__(self,freq = 0,p = ''):
         self.freq = freq
@@ -81,7 +82,6 @@ def decode(inp, out):
     keys = list(df['keys'])
     values = list(df['values'])
     _dict = dict(zip(keys,values))
-    print(_dict)
     #read data
     with open(inp) as f:
         data = f.readlines()
@@ -102,6 +102,7 @@ def decode(inp, out):
     file = open(out, 'w')
     file.write(output)
     file.close()
+
 
 def hc(names):
     for name in names:

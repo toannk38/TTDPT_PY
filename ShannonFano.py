@@ -16,6 +16,8 @@ def generate(bin_code = '', char = [],total = 0, _dict ={}):
         i+=1
     generate(bin_code+'0',char[:i],count,_dict)
     generate(bin_code+'1',char[i:],total-count,_dict)
+
+
 def encode(inp,out):
     #read data
     with open(inp) as f:
@@ -56,6 +58,7 @@ def encode(inp,out):
     encoded = {'keys': list(keys), 'values': list(values)}
     df = pd.DataFrame(encoded)
     df.to_csv(dict_path, index=False)
+
 
 def decode(inp, out):
     dict_path = inp[:-4] + '_dict.csv'

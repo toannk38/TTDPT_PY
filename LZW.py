@@ -48,6 +48,7 @@ def encode(inp,out):
     df = pd.DataFrame(encoded)
     df.to_csv(dict_path,index = False)
 
+
 def decode(inp, out):
     dict_path = inp[:-4]+'_dict.csv'
 

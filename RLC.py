@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def encode(inp,out):
     #read data
     with open(inp) as f:
@@ -35,6 +36,8 @@ def encode(inp,out):
     bits_data = len(content*8)
     bits_compressed = len(fre)*12
     return bits_data, bits_compressed
+
+
 def decode(inp,out):
     data = pd.read_csv(inp)
     sym = list(data['symbol'])
@@ -47,6 +50,7 @@ def decode(inp,out):
     file  = open(out,'w')
     file.write(s)
     file.close()
+
 
 def rlc(names):
     for name in names:

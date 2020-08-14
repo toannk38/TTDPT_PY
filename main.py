@@ -2,6 +2,7 @@ import RLC
 import LZW
 import ShannonFano as SF
 import HuffmanCoding as HC
+import pandas as pd
 
 _RLC =  RLC.rlc('1')
 _LZW =  LZW.lzw('1')
