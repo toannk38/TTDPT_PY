@@ -68,7 +68,7 @@ def decode(inp, out):
     # read dictionary
     df = pd.read_csv(dict_path)
     keys = list(map(int,df['keys']))
-    values = list(df['values'])
+    values = list(map(str,df['values']))
     _dict = dict(zip(keys,values))
 
     #decode
@@ -91,4 +91,5 @@ def lzw(names):
         bits = encode(data_path, encode_path)
         decode(encode_path, decode_path)
         res.append(bits)
+        print(name)
     return res

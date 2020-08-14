@@ -61,4 +61,5 @@ def rlc(names):
         bits = encode(data_path,encode_path)
         decode(encode_path,decode_path)
         res.append(bits)
+        print(name)
     return res

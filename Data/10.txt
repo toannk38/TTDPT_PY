@@ -4,7 +4,7 @@ model.py
 server.py
 request.py
 In a model.py file, we will develop and train our model, in a server.py, we will code to handle POST requests and return the results and finally in the request.py, we will send requests with the features to the server and receive the results.
-Letâ€™s begin the coding part
+Let’s begin the coding part
 model.py
 As I mentioned above, in this file we will develop our ML model and train it. We will predict the salary of an employee based on his/her experience in the field. You can find the dataset here.
 import numpy as np
@@ -110,5 +110,5 @@ We have created three files model.py, server.py and request.py to train and save
 After coding all of these files, the sequence to execute the files should be model.py, server.py(in a separate terminal) and at the end request.py.
 You can compare the results of prediction with a model.py as we printing the result at the end of the file.
 You can find all the coding in my Github repository, flask-salary-predictor.
-Donâ€™t hesitate to flow your ideas in the comment section below.
+Don’t hesitate to flow your ideas in the comment section below.
 Thank you :)

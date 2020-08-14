@@ -5,7 +5,7 @@ import HuffmanCoding as HC
 import pandas as pd
 
 def main():
-    num_files = 1
+    num_files = 30
     names = [str(i+1) for i in range(num_files)]
     _RLC =  RLC.rlc(names)
     _LZW =  LZW.lzw(names)
