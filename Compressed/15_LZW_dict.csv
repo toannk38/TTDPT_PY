@@ -1,0 +1,4550 @@
+keys,values
+0,P
+1, 
+2,;
+3,S
+4,K
+5,k
+6,D
+7,m
+8,:
+9,.
+10,5
+11,s
+12,n
+13,l
+14,H
+15,f
+16,r
+17,i
+18,u
+19,E
+20,)
+21,7
+22,”
+23,t
+24,U
+25,I
+26,c
+27,w
+28,x
+29,0
+30,o
+31,"
+"
+32,C
+33,d
+34,J
+35,e
+36,L
+37,M
+38,N
+39,T
+40,q
+41,A
+42,O
+43,b
+44,g
+45,6
+46,“
+47,—
+48,G
+49,2
+50,j
+51,-
+52,h
+53,’
+54,R
+55,a
+56,B
+57,","
+58,3
+59,v
+60,Y
+61,p
+62,1
+63,4
+64,$
+65,9
+66,F
+67,z
+68,W
+69,(
+70,y
+71,%
+72,Th
+73,he
+74,e 
+75, W
+76,Wh
+77,hi
+78,it
+79,te
+80,e H
+81,Ho
+82,ou
+83,us
+84,se
+85,e r
+86,re
+87,el
+88,le
+89,ea
+90,as
+91,sed
+92,d 
+93, a
+94,a 
+95, b
+96,br
+97,ri
+98,ie
+99,ef
+100,f 
+101, o
+102,on
+103,n 
+104, M
+105,Mo
+106,ond
+107,da
+108,ay
+109,y 
+110, t
+111,ti
+112,itl
+113,led
+114,d “
+115,“P
+116,Pr
+117,res
+118,si
+119,id
+120,de
+121,en
+122,nt
+123,t 
+124, T
+125,Tr
+126,ru
+127,um
+128,mp
+129,p’
+130,’s
+131,s 
+132, H
+133,Hi
+134,is
+135,st
+136,to
+137,or
+138,ric
+139,c 
+140, C
+141,Co
+142,oro
+143,ona
+144,av
+145,vi
+146,ir
+147,rus
+148,s R
+149,Re
+150,es
+151,sp
+152,po
+153,ons
+154,se 
+155, B
+156,Br
+157,rie
+158,"ef,"
+159,",”"
+160,” 
+161, w
+162,wh
+163,hic
+164,ch
+165,h 
+166, ou
+167,ut
+168,tl
+169,li
+170,in
+171,ne
+172,es 
+173, th
+174,he 
+175, s
+176,su
+177,up
+178,pp
+179,pos
+180,sed 
+181, wa
+182,ays
+183,s t
+184,th
+185,he p
+186,pr
+187,resi
+188,ide
+189,ent
+190,t h
+191,ha
+192,as 
+193, su
+194,uc
+195,cc
+196,ce
+197,ess
+198,sf
+199,fu
+200,ul
+201,ll
+202,ly
+203,y c
+204,co
+205,om
+206,mb
+207,ba
+208,at
+209,ted
+210,d t
+211,the
+212,e n
+213,no
+214,ov
+215,ve
+216,el 
+217, c
+218,cor
+219,ro
+220,onav
+221,vir
+222,rus.
+223,. 
+224, Th
+225,he U
+226,Un
+227,ni
+228,ite
+229,ed
+230,d S
+231,St
+232,ta
+233,ate
+234,es’
+235,’ 
+236, r
+237,resp
+238,pon
+239,ns
+240,se t
+241,to 
+242, Co
+243,ovi
+244,id-
+245,-1
+246,19
+247,9 
+248, i
+249,is 
+250, g
+251,gl
+252,lo
+253,ob
+254,bal
+255,lly
+256,y co
+257,onsi
+258,ider
+259,red
+260,d a
+261,an
+262,n o
+263,ong
+264,go
+265,oi
+266,ing
+267,g 
+268, f
+269,fa
+270,ai
+271,il
+272,lu
+273,ur
+274,"re,"
+275,", "
+276, h
+277,ho
+278,ow
+279,we
+280,ev
+281,ver
+282,"r,"
+283,", a"
+284,and
+285,d th
+286,he b
+287,bri
+288,ief
+289,f c
+290,con
+291,nta
+292,ain
+293,ns 
+294, se
+295,eve
+296,er
+297,ra
+298,al
+299,l 
+300, in
+301,na
+302,ac
+303,ccu
+304,ura
+305,aci
+306,ies
+307,s o
+308,or 
+309, e
+310,ex
+311,xa
+312,ag
+313,gg
+314,ge
+315,era
+316,ati
+317,io
+318,ons.
+319,. T
+320,The
+321,e U
+322,U.
+323,.S
+324,S.
+325,. i
+326,is c
+327,cu
+328,urr
+329,ren
+330,ntl
+331,ly 
+332, l
+333,lea
+334,ad
+335,di
+336,ing 
+337, the
+338,e w
+339,wo
+340,orl
+341,ld
+342,d i
+343,in 
+344, the 
+345, n
+346,nu
+347,umb
+348,be
+349,er 
+350, of
+351,f p
+352,pe
+353,eo
+354,op
+355,pl
+356,le 
+357, wh
+358,ho 
+359, ha
+360,ave
+361,e b
+362,bee
+363,en 
+364, k
+365,ki
+366,ill
+367,led 
+368, by
+369,y t
+370,the 
+371, v
+372,viru
+373,us 
+374, at
+375,t o
+376,ove
+377,er 1
+378,16
+379,65
+380,"5,"
+381,",3"
+382,30
+383,00
+384,0 
+385, at 
+386, p
+387,pu
+388,ub
+389,bl
+390,lic
+391,ca
+392,atio
+393,on 
+394, ti
+395,im
+396,me
+397,e.
+398,. W
+399,We
+400,e’
+401,’v
+402,ve 
+403, fa
+404,act
+405,t-
+406,-c
+407,che
+408,ec
+409,ck
+410,ke
+411,ed 
+412, the “
+413,“k
+414,key
+415,y ta
+416,ak
+417,kea
+418,aw
+419,wa
+420,ays”
+421,” f
+422,fr
+423,rom
+424,m 
+425, the W
+426,Whi
+427,ite 
+428, Ho
+429,ous
+430,se b
+431,brie
+432,ef 
+433, be
+434,elo
+435,ow.
+436,".
+"
+437,"
+K"
+438,KE
+439,EY
+440,Y 
+441, TA
+442,AK
+443,KEA
+444,AW
+445,WA
+446,AY
+447,YS
+448,S:
+449,":
+"
+450,"
+“"
+451,“T
+452,To
+453,oo
+454,ok
+455,k 
+456, ea
+457,ar
+458,rl
+459,ly a
+460,acti
+461,ion
+462,n t
+463,to c
+464,cut
+465,t of
+466,ff
+467,f t
+468,tr
+469,rav
+470,vel
+471,l f
+472,fro
+473,om 
+474, Ch
+475,hin
+476,na”
+477,"”
+"
+478,"
+T"
+479,The 
+480, U
+481,U.S
+482,S. 
+483, was
+484,s n
+485,nei
+486,ith
+487,her
+488,r 
+489, ah
+490,hea
+491,ad 
+492, or
+493,r a
+494,af
+495,ft
+496,ter
+497,r t
+498,the c
+499,cur
+500,rv
+501,ve i
+502,in r
+503,rest
+504,tri
+505,ic
+506,ct
+507,tin
+508,ng
+509,g t
+510,tra
+511,avel
+512,l fr
+513,rom 
+514, Chi
+515,ina
+516,a.
+517,. Th
+518,he W
+519,Wo
+520,orld
+521,d H
+522,He
+523,eal
+524,lt
+525,th 
+526, O
+527,Or
+528,rg
+529,ga
+530,ani
+531,iz
+532,za
+533,ation
+534,n d
+535,dec
+536,cl
+537,la
+538,are
+539,ed t
+540,the co
+541,oron
+542,nav
+543,virus
+544,s ou
+545,utb
+546,bre
+547,eak
+548,k a
+549,a p
+550,pub
+551,bli
+552,ic 
+553, he
+554,ealt
+555,th e
+556,em
+557,mer
+558,rge
+559,enc
+560,cy
+561,y o
+562,of
+563,f i
+564,int
+565,tern
+566,nat
+567,tio
+568,onal
+569,l c
+570,conc
+571,cer
+572,rn
+573,n on
+574,n J
+575,Ja
+576,anu
+577,ua
+578,ary
+579,y 3
+580,30.
+581,. The
+582,e s
+583,sa
+584,am
+585,me 
+586, d
+587,day
+588,"y,"
+589,", t"
+590,the S
+591,Sta
+592,ate 
+593, D
+594,De
+595,ep
+596,pa
+597,art
+598,tm
+599,men
+600,nt 
+601, ra
+602,ais
+603,sed i
+604,its
+605,s tr
+606,rave
+607,el a
+608,adv
+609,vis
+610,so
+611,ory
+612,y f
+613,fo
+614,or C
+615,Ch
+616,hina
+617,a t
+618,to “
+619,“L
+620,Le
+621,evel
+622,l 4
+623,4 
+624, —
+625,— 
+626, Do
+627,o 
+628, N
+629,No
+630,ot
+631,t T
+632,Tra
+633,avel.
+634,.”
+635,” I
+636,In
+637,n do
+638,oin
+639,ng 
+640, so
+641,"o,"
+642,", th"
+643,he U.
+644,.S.
+645,. w
+646,was
+647,s a
+648,actin
+649,ng i
+650,in a
+651,acc
+652,cord
+653,dan
+654,nc
+655,ce 
+656, wi
+657,ith 
+658, m
+659,ma
+660,any
+661,y ot
+662,ther
+663,r c
+664,cou
+665,un
+666,ntr
+667,ries
+668,s.
+669,. A
+670,Ac
+671,cco
+672,ord
+673,din
+674,ng t
+675,to T
+676,Thi
+677,ink
+678,kG
+679,Gl
+680,lob
+681,balH
+682,Hea
+683,alt
+684,"th,"
+685,", a "
+686, Cou
+687,unc
+688,ci
+689,il 
+690, fo
+691,or F
+692,Fo
+693,ore
+694,ei
+695,ig
+696,gn
+697,n R
+698,Rel
+699,lat
+700,tion
+701,ns p
+702,pro
+703,og
+704,gr
+705,ram
+706,m t
+707,tha
+708,at 
+709, has
+710,s tra
+711,ack
+712,ked
+713,d the
+714,e c
+715,coun
+716,ntri
+717,ies 
+718, tha
+719,at h
+720,hav
+721,ve im
+722,mpo
+723,os
+724,sed t
+725,trav
+726,vel 
+727, ba
+728,ans
+729,s on
+730,n C
+731,Chi
+732,"ina,"
+733,", 3"
+734,36
+735,6 
+736, co
+737,oun
+738,ntrie
+739,es i
+740,inc
+741,clu
+742,ud
+743,ding
+744,g th
+745,he U.S
+746,S. h
+747,had
+748,d im
+749,mpos
+750,sed tr
+751,ravel
+752,l r
+753,restr
+754,rict
+755,tions
+756,s b
+757,by
+758,y F
+759,Fe
+760,eb
+761,bru
+762,uar
+763,ry
+764,y 2
+765,2.
+766,. At
+767,t t
+768,the t
+769,tim
+770,me o
+771,of 
+772, the J
+773,Jan
+774,nua
+775,ary 
+776, 3
+777,30 
+778, an
+779,nn
+780,nou
+781,unce
+782,eme
+783,"ent,"
+784,", the"
+785,e W
+786,Wor
+787,rld
+788,d He
+789,ealth
+790,h O
+791,Org
+792,gan
+793,niz
+794,zat
+795,tion 
+796, di
+797,id 
+798, “
+799,“n
+800,not
+801,t r
+802,rec
+803,com
+804,mm
+805,mend
+806,d an
+807,ny
+808,y tr
+809,ravel 
+810, or 
+811, tr
+812,rad
+813,de 
+814, re
+815,est
+816,tric
+817,cti
+818,ion.
+819,.” 
+820, Du
+821,ue
+822,e t
+823,to i
+824,its 
+825, po
+826,oor
+827,r h
+828,han
+829,nd
+830,dl
+831,lin
+832,ng o
+833,of t
+834,the cor
+835,ron
+836,navi
+837,iru
+838,us o
+839,out
+840,tb
+841,brea
+842,"ak,"
+843,", the "
+844, U.
+845,.S. 
+846, has 
+847, bee
+848,en o
+849,on t
+850,the r
+851,rece
+852,eiv
+853,vin
+854,ng e
+855,end
+856,d o
+857,of m
+858,man
+859,ny 
+860, int
+861,terna
+862,ationa
+863,al 
+864, tra
+865,avel 
+866, ban
+867,ns:
+868,: 
+869, as
+870,s of
+871,f A
+872,Au
+873,ug
+874,gu
+875,ust
+876,t 7
+877,"7,"
+878,", ther"
+879,re 
+880, ar
+881,re o
+882,onl
+883,ly 3
+884,34
+885,4 c
+886,count
+887,trie
+888,"es,"
+889,", m"
+890,many
+891,y of
+892,f th
+893,hem
+894,m C
+895,Ca
+896,ari
+897,ib
+898,bb
+899,bea
+900,an 
+901, is
+902,sl
+903,lan
+904,nds
+905,"s,"
+906,", tha"
+907,at A
+908,Am
+909,meri
+910,ica
+911,ans 
+912, ca
+913,an t
+914,trave
+915,el t
+916,to.
+917,. —
+918,— Y
+919,Ya
+920,asm
+921,mi
+922,in T
+923,Ta
+924,aya
+925,"ag
+"
+926,"
+“B"
+927,Bu
+928,ui
+929,ilt
+930,t th
+931,he w
+932,wor
+933,rld’
+934,’s 
+935, le
+936,ead
+937,ding 
+938, te
+939,esti
+940,ing s
+941,sy
+942,ys
+943,ste
+944,em 
+945, fr
+946,rom n
+947,noth
+948,hing
+949,g”
+950,"”
+B"
+951,By
+952,y fa
+953,ar 
+954, on
+955,ne 
+956, of 
+957, the g
+958,gre
+959,eat
+960,tes
+961,st 
+962, cr
+963,rit
+964,tiq
+965,qu
+966,ues
+967,s of 
+968, the U
+969,U.S.
+970,. r
+971,respo
+972,onse
+973,e to
+974,o t
+975,the coro
+976,onavi
+977,irus
+978,s p
+979,pan
+980,nde
+981,emi
+982,ic i
+983,is t
+984,that
+985,t the
+986,e co
+987,ount
+988,try
+989,y h
+990,has
+991,s bu
+992,ung
+993,gle
+994,ed te
+995,estin
+996,ng.
+997,. I
+998,In 
+999, the f
+1000,fi
+1001,irs
+1002,st f
+1003,fe
+1004,ew
+1005,w 
+1006, cri
+1007,iti
+1008,ical
+1009,l m
+1010,mo
+1011,ont
+1012,ths
+1013,s of t
+1014,the p
+1015,pand
+1016,dem
+1017,mic
+1018,"c,"
+1019,", mo"
+1020,ost
+1021,t p
+1022,peo
+1023,opl
+1024,le w
+1025,who
+1026,o d
+1027,did
+1028,d n
+1029,not 
+1030, hav
+1031,ve s
+1032,sym
+1033,mpt
+1034,tom
+1035,ms
+1036,s of th
+1037,he v
+1038,virus 
+1039, we
+1040,ere
+1041,e u
+1042,una
+1043,ab
+1044,ble
+1045,e to 
+1046, be 
+1047, tes
+1048,sted
+1049,"d,"
+1050,", w"
+1051,whi
+1052,ich
+1053,h a
+1054,all
+1055,low
+1056,wed
+1057,d the 
+1058, vi
+1059,irus 
+1060, to
+1061,o s
+1062,spr
+1063,rea
+1064,ad u
+1065,unch
+1066,hec
+1067,cke
+1068,ed i
+1069,in c
+1070,cit
+1071,tie
+1072,es a
+1073,all 
+1074, ac
+1075,cr
+1076,ros
+1077,ss
+1078,s th
+1079,he c
+1080,countr
+1081,ry.
+1082,. N
+1083,Now
+1084,"w,"
+1085,", s"
+1086,six
+1087,x 
+1088, mo
+1089,onth
+1090,hs
+1091,s i
+1092,into
+1093,o th
+1094,he pa
+1095,ande
+1096,emic
+1097,"c, "
+1098, ther
+1099,re r
+1100,rem
+1101,mai
+1102,ins
+1103,s a 
+1104, test
+1105,ting
+1106,g b
+1107,bac
+1108,ckl
+1109,log
+1110,"g,"
+1111,", wh"
+1112,hich
+1113,h i
+1114,is f
+1115,for
+1116,rc
+1117,cin
+1118,ng p
+1119,peop
+1120,ple
+1121,e to w
+1122,wai
+1123,it 
+1124, sev
+1125,vera
+1126,al d
+1127,days
+1128,"s, "
+1129, and
+1130,d in
+1131,n m
+1132,many 
+1133, cas
+1134,ses
+1135,"s, u"
+1136,up 
+1137, to 
+1138, tw
+1139,wo 
+1140, wee
+1141,ek
+1142,ks
+1143,s be
+1144,efo
+1145,ore 
+1146, ge
+1147,et
+1148,tt
+1149,ting 
+1150, res
+1151,sul
+1152,lts
+1153,s. 
+1154, Thi
+1155,is m
+1156,mea
+1157,ans t
+1158,that 
+1159, pe
+1160,eop
+1161,ple 
+1162, who
+1163,o a
+1164,are 
+1165, pos
+1166,sit
+1167,tiv
+1168,ve c
+1169,coul
+1170,ld 
+1171, sp
+1172,pre
+1173,ead 
+1174, the v
+1175,virus d
+1176,du
+1177,uri
+1178,ing t
+1179,that w
+1180,wait
+1181,t ti
+1182,ime
+1183,"e,"
+1184,", an"
+1185,nd 
+1186, peo
+1187,ople
+1188,e wh
+1189,ho d
+1190,did 
+1191, no
+1192,ot 
+1193, have
+1194,e th
+1195,he vi
+1196,irus w
+1197,whe
+1198,en t
+1199,they
+1200,y w
+1201,wer
+1202,re t
+1203,test
+1204,ted 
+1205, mi
+1206,igh
+1207,ht
+1208,t u
+1209,unk
+1210,kn
+1211,now
+1212,wi
+1213,ingl
+1214,ly g
+1215,get
+1216,t i
+1217,inf
+1218,fec
+1219,cte
+1220,ed d
+1221,dur
+1222,rin
+1223,ng th
+1224,he pe
+1225,eri
+1226,iod
+1227,d they
+1228,y a
+1229,are w
+1230,waiti
+1231,ing f
+1232,for 
+1233, resu
+1234,ult
+1235,ts
+1236,s. T
+1237,The m
+1238,mos
+1239,st b
+1240,bas
+1241,sic
+1242,c p
+1243,publ
+1244,lic 
+1245, hea
+1246,alth
+1247,h s
+1248,sta
+1249,anda
+1250,ard
+1251,d f
+1252,for m
+1253,mana
+1254,agi
+1255,ing a
+1256,an i
+1257,infe
+1258,ect
+1259,tiou
+1260,us d
+1261,dis
+1262,sea
+1263,ase
+1264,e i
+1265,is te
+1266,esting
+1267,g a
+1268,and 
+1269, con
+1270,ntac
+1271,ct 
+1272, trac
+1273,cing
+1274,g.
+1275,. The 
+1276, Un
+1277,nit
+1278,ted S
+1279,Stat
+1280,tes 
+1281, do
+1282,oe
+1283,es n
+1284,not h
+1285,have
+1286,e a
+1287,a c
+1288,coo
+1289,ordi
+1290,inat
+1291,ted n
+1292,nati
+1293,iona
+1294,al r
+1295,respon
+1296,nse
+1297,e f
+1298,for e
+1299,eit
+1300,ther.
+1301,. In
+1302,nst
+1303,tea
+1304,"ad,"
+1305,", so"
+1306,ome
+1307,e st
+1308,tat
+1309,tes a
+1310,are b
+1311,ban
+1312,ndi
+1313,ing to
+1314,oge
+1315,eth
+1316,her 
+1317, to c
+1318,cre
+1319,eate
+1320,e the
+1321,eir
+1322,r o
+1323,own
+1324,n te
+1325,esting 
+1326, pl
+1327,lans
+1328,s an
+1329,nd u
+1330,urg
+1331,ge 
+1332, test 
+1333, ma
+1334,anuf
+1335,fac
+1336,ctu
+1337,ure
+1338,ers
+1339,s to
+1340,o p
+1341,prod
+1342,duc
+1343,ce m
+1344,mor
+1345,re ra
+1346,ap
+1347,pi
+1348,id-t
+1349,tests
+1350,s f
+1351,for t
+1352,thei
+1353,ir 
+1354, st
+1355,tate
+1356,es.
+1357,. C
+1358,Cou
+1359,unt
+1360,tries
+1361,s tha
+1362,at ha
+1363,ave 
+1364, suc
+1365,cce
+1366,essf
+1367,ful
+1368,lly 
+1369, cu
+1370,urb
+1371,bed
+1372,d the v
+1373,virus h
+1374,have 
+1375, don
+1376,ne e
+1377,ext
+1378,ten
+1379,nsi
+1380,iv
+1381,ve t
+1382,testi
+1383,ing an
+1384,nd c
+1385,cont
+1386,trac
+1387,ct t
+1388,traci
+1389,"ing,"
+1390,", and"
+1391,d the U
+1392,U.S. 
+1393, is 
+1394, not
+1395,t on
+1396,ne o
+1397,of th
+1398,hes
+1399,se c
+1400,countri
+1401,ies.
+1402,. — 
+1403, A
+1404,Al
+1405,lex
+1406,xan
+1407,ndr
+1408,ra 
+1409, S
+1410,Si
+1411,if
+1412,ffe
+1413,erl
+1414,"lin
+"
+1415,"
+“E"
+1416,En
+1417,nac
+1418,cted
+1419,d m
+1420,mit
+1421,tig
+1422,gat
+1423,tion m
+1424,meas
+1425,sur
+1426,res 
+1427, to s
+1428,slo
+1429,ow 
+1430, the s
+1431,spre
+1432,ead”
+1433,"”
+W"
+1434,Wi
+1435,ides
+1436,sprea
+1437,ad t
+1438,testin
+1439,ng is
+1440,s c
+1441,cons
+1442,sid
+1443,der
+1444,red 
+1445, the m
+1446,most
+1447,t c
+1448,cru
+1449,uci
+1450,ia
+1451,al t
+1452,too
+1453,ol
+1454,l i
+1455,in s
+1456,slow
+1457,win
+1458,ng the
+1459,e sp
+1460,prea
+1461,ad o
+1462,of the
+1463,e cor
+1464,rona
+1465,avi
+1466,"irus,"
+1467,", b"
+1468,bu
+1469,ut 
+1470, the T
+1471,Tru
+1472,ump
+1473,p 
+1474, ad
+1475,dm
+1476,min
+1477,nis
+1478,str
+1479,rat
+1480,tion f
+1481,fai
+1482,ile
+1483,ed to
+1484,o su
+1485,upp
+1486,por
+1487,rt
+1488,t a
+1489,and i
+1490,imp
+1491,prov
+1492,ve it
+1493,t (
+1494,(a
+1495,and c
+1496,conti
+1497,inu
+1498,ues 
+1499, to a
+1500,at p
+1501,pres
+1502,sen
+1503,nt)
+1504,):
+1505,: T
+1506,The C
+1507,Ce
+1508,ente
+1509,ers 
+1510, for
+1511,r D
+1512,Di
+1513,ise
+1514,eas
+1515,se C
+1516,Con
+1517,ntro
+1518,ol 
+1519, and 
+1520, P
+1521,Pre
+1522,even
+1523,nti
+1524,ion 
+1525, sa
+1526,aid
+1527,d it
+1528,t ha
+1529,ad b
+1530,beg
+1531,gun
+1532,n s
+1533,sh
+1534,hip
+1535,ppi
+1536,ing i
+1537,its t
+1538,tests 
+1539, to se
+1540,ele
+1541,ect 
+1542, pu
+1543,ubl
+1544,lic h
+1545,heal
+1546,lth
+1547,h l
+1548,lab
+1549,bo
+1550,ora
+1551,ato
+1552,ori
+1553,ies o
+1554,on F
+1555,Feb
+1556,brua
+1557,ary 3
+1558,"3,"
+1559,", bu"
+1560,ut t
+1561,thes
+1562,se w
+1563,were
+1564,e so
+1565,oon
+1566,n f
+1567,fou
+1568,und
+1569,d to
+1570,o b
+1571,be 
+1572, “u
+1573,unr
+1574,rel
+1575,lia
+1576,abl
+1577,le.
+1578,.” W
+1579,Wel
+1580,ll 
+1581, into
+1582,o the
+1583,e ne
+1584,ext 
+1585, cou
+1586,upl
+1587,le o
+1588,of mo
+1589,onths
+1590,"s, e"
+1591,even 
+1592, as 
+1593, com
+1594,mme
+1595,erc
+1596,cia
+1597,al te
+1598,ests
+1599,s w
+1600,were 
+1601, gi
+1602,ive
+1603,en e
+1604,emer
+1605,rgen
+1606,ncy
+1607,y u
+1608,use
+1609,e ap
+1610,ppr
+1611,rov
+1612,va
+1613,"al,"
+1614,", U"
+1615,U.S. t
+1616,testing
+1617,g n
+1618,num
+1619,mbe
+1620,ers l
+1621,lag
+1622,gge
+1623,ed f
+1624,far
+1625,r b
+1626,beh
+1627,hind
+1628,d tho
+1629,ose
+1630,e o
+1631,of o
+1632,oth
+1633,her n
+1634,natio
+1635,ons. 
+1636, Af
+1637,fte
+1638,er i
+1639,it w
+1640,was 
+1641, conf
+1642,fir
+1643,rm
+1644,med
+1645,d tha
+1646,at t
+1647,tran
+1648,nsm
+1649,mis
+1650,ssi
+1651,ion t
+1652,thr
+1653,rou
+1654,ugh
+1655,h h
+1656,hu
+1657,uma
+1658,an c
+1659,conta
+1660,act 
+1661, and a
+1662,asy
+1663,ym
+1664,mpto
+1665,oma
+1666,atic
+1667,c t
+1668,trans
+1669,sm
+1670,miss
+1671,sio
+1672,on w
+1673,were p
+1674,poss
+1675,sib
+1676,"ble,"
+1677,", the T"
+1678,Trum
+1679,mp 
+1680, adm
+1681,mini
+1682,ist
+1683,trat
+1684,tion w
+1685,was s
+1686,slow 
+1687, to i
+1688,iss
+1689,sue
+1690,e fe
+1691,ede
+1692,eral
+1693,l g
+1694,gui
+1695,idel
+1696,line
+1697,es ab
+1698,bou
+1699,ut s
+1700,soc
+1701,cial
+1702,l d
+1703,dist
+1704,tan
+1705,nci
+1706,ing and
+1707,d h
+1708,hy
+1709,yg
+1710,gi
+1711,ien
+1712,ne.
+1713,. It
+1714,t w
+1715,was n
+1716,not u
+1717,unti
+1718,il M
+1719,Ma
+1720,arc
+1721,ch 
+1722, 9
+1723,9 t
+1724,that t
+1725,the W
+1726,Whit
+1727,te 
+1728, Hou
+1729,use 
+1730, rel
+1731,leas
+1732,sed g
+1733,guid
+1734,del
+1735,lines
+1736,s on 
+1737, han
+1738,ndw
+1739,wash
+1740,"hing,"
+1741,", d"
+1742,dista
+1743,anc
+1744,"cing,"
+1745,", and "
+1746, iso
+1747,ola
+1748,atin
+1749,ng the 
+1750, si
+1751,ick
+1752,"k,"
+1753,", tho"
+1754,oug
+1755,gh
+1756,h e
+1757,enf
+1758,forc
+1759,cing 
+1760, thes
+1761,se r
+1762,reco
+1763,omm
+1764,menda
+1765,ations
+1766,s wa
+1767,as l
+1768,lef
+1769,ft 
+1770, to st
+1771,tate 
+1772, go
+1773,over
+1774,rno
+1775,ors
+1776,s. O
+1777,On
+1778,n M
+1779,Mar
+1780,rch
+1781,h 2
+1782,20
+1783,"0,"
+1784,", T"
+1785,Trump
+1786,p s
+1787,sai
+1788,id h
+1789,he d
+1790,did n
+1791,not t
+1792,thi
+1793,ink 
+1794, a 
+1795, na
+1796,ationw
+1797,wid
+1798,de l
+1799,loc
+1800,ckd
+1801,do
+1802,own 
+1803, wo
+1804,oul
+1805,ld b
+1806,be e
+1807,ever
+1808,r n
+1809,nec
+1810,ces
+1811,ssa
+1812,ary a
+1813,and h
+1814,he h
+1815,has 
+1816, ne
+1817,ever 
+1818, cal
+1819,lle
+1820,ed fo
+1821,or o
+1822,one
+1823,e. 
+1824, He
+1825,e d
+1826,did no
+1827,ot e
+1828,endo
+1829,orse
+1830,e m
+1831,mas
+1832,sk
+1833,k-
+1834,-w
+1835,wea
+1836,arin
+1837,ng u
+1838,until
+1839,l l
+1840,late
+1841,e J
+1842,Ju
+1843,uly
+1844,y.
+1845,. — Y
+1846,Yas
+1847,smi
+1848,in Ta
+1849,ayag
+1850,"g
+"
+1851,"
+“M"
+1852,Mob
+1853,bi
+1854,ili
+1855,ize
+1856,ed p
+1857,publi
+1858,ic a
+1859,and p
+1860,pri
+1861,iva
+1862,ate s
+1863,sec
+1864,cto
+1865,ors 
+1866, to sec
+1867,cure
+1868,e nee
+1869,eded
+1870,d s
+1871,sup
+1872,ppl
+1873,lie
+1874,es”
+1875,"”
+T"
+1876,The T
+1877,Trump 
+1878, admi
+1879,ini
+1880,istr
+1881,rati
+1882,ion s
+1883,say
+1884,ys 
+1885, it
+1886,t has
+1887,s in
+1888,nv
+1889,vo
+1890,oke
+1891,ed th
+1892,he D
+1893,Def
+1894,fen
+1895,nse 
+1896, Pr
+1897,rod
+1898,duct
+1899,tion A
+1900,Act
+1901,t —
+1902,— a
+1903,a l
+1904,law
+1905,w t
+1906,that g
+1907,giv
+1908,ves
+1909,s the
+1910,e p
+1911,presi
+1912,iden
+1913,nt s
+1914,sig
+1915,gni
+1916,ifi
+1917,ican
+1918,nt e
+1919,emerg
+1920,gen
+1921,ncy 
+1922, au
+1923,uth
+1924,hor
+1925,rity
+1926,y to
+1927,o c
+1928,contr
+1929,rol
+1930,l do
+1931,omes
+1932,sti
+1933,ic in
+1934,ndu
+1935,ustr
+1936,ries 
+1937, — 
+1938, mor
+1939,re th
+1940,han 
+1941, 30
+1942,0 t
+1943,time
+1944,es. 
+1945, How
+1946,wev
+1947,"ver,"
+1948,", c"
+1949,cri
+1950,itic
+1951,cs
+1952,s on a
+1953,all p
+1954,poi
+1955,ints
+1956,s of the
+1957,e po
+1958,oli
+1959,itica
+1960,al s
+1961,spe
+1962,ectr
+1963,rum
+1964,m c
+1965,crit
+1966,tiqu
+1967,ued
+1968,d the W
+1969,White
+1970,e Ho
+1971,ouse
+1972,e in
+1973,n th
+1974,he be
+1975,eg
+1976,gin
+1977,nni
+1978,ing o
+1979,of the 
+1980, pa
+1981,andem
+1982,mic 
+1983, for 
+1984, its
+1985,s h
+1986,hesi
+1987,ita
+1988,ancy
+1989,y to 
+1990, inv
+1991,vok
+1992,ke 
+1993, the a
+1994,act a
+1995,and s
+1996,secu
+1997,ure 
+1998, me
+1999,edi
+2000,ical 
+2001, sup
+2002,ppli
+2003,ies. 
+2004, Wh
+2005,hil
+2006,le t
+2007,the a
+2008,adm
+2009,minis
+2010,stra
+2011,ation 
+2012, has e
+2013,enco
+2014,our
+2015,rag
+2016,ged
+2017,d c
+2018,comp
+2019,pani
+2020,ies t
+2021,to r
+2022,ramp
+2023,p u
+2024,up s
+2025,supp
+2026,ply
+2027,y m
+2028,manu
+2029,uf
+2030,fact
+2031,tu
+2032,urin
+2033,ng —
+2034,— l
+2035,lik
+2036,ke p
+2037,press
+2038,sin
+2039,ng G
+2040,Ge
+2041,ene
+2042,eral 
+2043, Mo
+2044,oto
+2045,ors t
+2046,to m
+2047,mak
+2048,ke v
+2049,ven
+2050,ntil
+2051,lato
+2052,ors —
+2053,— t
+2054,there
+2055,e ar
+2056,re s
+2057,stil
+2058,ll c
+2059,criti
+2060,ics
+2061,s wh
+2062,ho s
+2063,say 
+2064, there
+2065,e’s
+2066,s no
+2067,ot en
+2068,noug
+2069,gh 
+2070, bei
+2071,ing d
+2072,don
+2073,ne t
+2074,to s
+2075,secur
+2076,re U
+2077,U.S. s
+2078,suppl
+2079,ly c
+2080,cha
+2081,ains
+2082,s. I
+2083,In a
+2084,a N
+2085,Ne
+2086,ew 
+2087, Y
+2088,Yo
+2089,ork
+2090,k T
+2091,Ti
+2092,imes
+2093,s ar
+2094,rti
+2095,icl
+2096,le p
+2097,publis
+2098,she
+2099,ed J
+2100,Jul
+2101,ly 2
+2102,22
+2103,"2,"
+2104,", e"
+2105,exp
+2106,per
+2107,rts
+2108,s in 
+2109, nat
+2110,tiona
+2111,al se
+2112,ecu
+2113,urit
+2114,ty
+2115,y s
+2116,said
+2117,d ther
+2118,re re
+2119,ema
+2120,ains 
+2121, no 
+2122, nati
+2123,ional
+2124,l s
+2125,strat
+2126,teg
+2127,gy
+2128,y to p
+2129,prev
+2130,vent
+2131,t s
+2132,sho
+2133,ort
+2134,tag
+2135,ges
+2136,s. “
+2137,“W
+2138,Wha
+2139,at th
+2140,he f
+2141,fed
+2142,dera
+2143,al g
+2144,gov
+2145,vern
+2146,nm
+2147,ment
+2148,t — 
+2149, the p
+2150,presid
+2151,den
+2152,nt o
+2153,or s
+2154,secr
+2155,ret
+2156,tar
+2157,ries p
+2158,posse
+2159,essi
+2160,ing de
+2161,eleg
+2162,gate
+2163,ed a
+2164,au
+2165,utho
+2166,orit
+2167,ty 
+2168, — h
+2169,have n
+2170,not d
+2171,done
+2172,e y
+2173,ye
+2174,et 
+2175, is u
+2176,use t
+2177,the D
+2178,D.
+2179,.P
+2180,P.
+2181,.A
+2182,A.
+2183,. t
+2184,to cr
+2185,reat
+2186,te a
+2187,a pe
+2188,erm
+2189,mane
+2190,"ent, "
+2191, sus
+2192,stai
+2193,inab
+2194,"ble, "
+2195, red
+2196,dun
+2197,nda
+2198,ant
+2199,"t,"
+2200,", do"
+2201,omest
+2202,tic
+2203,c s
+2204,supply
+2205,y ch
+2206,hai
+2207,in f
+2208,for a
+2209,all t
+2210,thin
+2211,ngs
+2212,s pa
+2213,andemi
+2214,ic:
+2215,: t
+2216,"testing,"
+2217,", sw"
+2218,wab
+2219,bs
+2220,"s, N"
+2221,N9
+2222,95
+2223,5 
+2224, mas
+2225,sks
+2226,"s, et"
+2227,tc
+2228,c.
+2229,".,"
+2230,",” "
+2231, J
+2232,Jam
+2233,mie
+2234,e B
+2235,Ba
+2236,ake
+2237,"er,"
+2238,", a p"
+2239,prof
+2240,fes
+2241,sso
+2242,or of
+2243,f n
+2244,nation
+2245,nal
+2246,l se
+2247,ecur
+2248,rity 
+2249, la
+2250,aw 
+2251, at S
+2252,Sy
+2253,yr
+2254,rac
+2255,cus
+2256,se U
+2257,Uni
+2258,iver
+2259,rs
+2260,sity
+2261,"y, "
+2262, tol
+2263,ld t
+2264,the T
+2265,Tim
+2266,mes
+2267,s. —
+2268,— A
+2269,Ale
+2270,exa
+2271,andr
+2272,ra S
+2273,Sif
+2274,ffer
+2275,rli
+2276,"in
+"
+2277,"
+“T"
+2278,Too
+2279,ok 
+2280, act
+2281,tion t
+2282,to p
+2283,prot
+2284,tec
+2285,ct v
+2286,vu
+2287,uln
+2288,ner
+2289,rab
+2290,ble 
+2291, Am
+2292,meric
+2293,can
+2294,ns”
+2295,"”
+Th"
+2296,he Wh
+2297,hit
+2298,te H
+2299,Hou
+2300,use m
+2301,mem
+2302,mo 
+2303, hi
+2304,ighl
+2305,lig
+2306,ght
+2307,ts 
+2308, the gu
+2309,uid
+2310,deli
+2311,ine
+2312,es it
+2313,t is
+2314,ssu
+2315,ued 
+2316, for e
+2317,eld
+2318,derl
+2319,ly A
+2320,Ame
+2321,eric
+2322,cans
+2323,s as
+2324,s an 
+2325, acti
+2326,ion to
+2327,o pr
+2328,rot
+2329,tect
+2330,t v
+2331,vul
+2332,ln
+2333,nera
+2334,able
+2335,e A
+2336,Amer
+2337,rica
+2338,ans.
+2339,. O
+2340,On 
+2341, Ma
+2342,arch
+2343,h 6
+2344,"6,"
+2345,", i"
+2346,it e
+2347,encou
+2348,urag
+2349,ged 
+2350, them
+2351,m to
+2352,o st
+2353,tay
+2354,y at
+2355,t ho
+2356,ome 
+2357, as m
+2358,mu
+2359,uch
+2360,h as
+2361,s po
+2362,oss
+2363,sibl
+2364,"le,"
+2365,", but"
+2366,t b
+2367,by 
+2368, Ju
+2369,une
+2370,"e, "
+2371, peop
+2372,ple i
+2373,in n
+2374,nur
+2375,rsi
+2376,ing h
+2377,hom
+2378,mes 
+2379, acc
+2380,counte
+2381,ed for
+2382,r 4
+2383,40
+2384,0%
+2385,% 
+2386, of t
+2387,the cou
+2388,untr
+2389,ry’
+2390,’s d
+2391,dea
+2392,ath
+2393,hs 
+2394, fro
+2395,om C
+2396,Cov
+2397,vid
+2398,d-
+2399,-19
+2400,9.
+2401,. Ther
+2402,re a
+2403,are m
+2404,many o
+2405,othe
+2406,er v
+2407,vuln
+2408,nerab
+2409,ble p
+2410,peopl
+2411,le i
+2412,in t
+2413,the U
+2414,Unit
+2415,ted St
+2416,tates
+2417,s not
+2418,t m
+2419,menti
+2420,ione
+2421,ed in
+2422,n the
+2423,e me
+2424,emo
+2425,o:
+2426,: C
+2427,Cr
+2428,ruc
+2429,ciall
+2430,"ly,"
+2431,", B"
+2432,Bl
+2433,lac
+2434,"ck,"
+2435,", L"
+2436,La
+2437,atinx
+2438,"x,"
+2439,", and I"
+2440,Ind
+2441,dig
+2442,geno
+2443,ous 
+2444, peopl
+2445,le a
+2446,and o
+2447,other
+2448,r p
+2449,people
+2450,e of
+2451,f co
+2452,olo
+2453,or h
+2454,have b
+2455,been
+2456,n h
+2457,hit 
+2458, es
+2459,spec
+2460,cially
+2461,y ha
+2462,ard 
+2463, by 
+2464, the pa
+2465,andemic
+2466,"c, l"
+2467,lar
+2468,rgel
+2469,ly b
+2470,bec
+2471,cau
+2472,use th
+2473,hey
+2474,y hav
+2475,ve l
+2476,lon
+2477,ng ex
+2478,xp
+2479,peri
+2480,ienc
+2481,ced
+2482,"d, "
+2483, and c
+2484,contin
+2485,nue
+2486,e to e
+2487,expe
+2488,erie
+2489,ence
+2490,"e, i"
+2491,ineq
+2492,qua
+2493,ali
+2494,itie
+2495,es t
+2496,that n
+2497,neg
+2498,gati
+2499,ivel
+2500,ly i
+2501,impa
+2502,act t
+2503,their
+2504,r he
+2505,ealth 
+2506, and d
+2507,disp
+2508,prop
+2509,port
+2510,tionat
+2511,tel
+2512,ly e
+2513,expo
+2514,ose 
+2515, them 
+2516, to in
+2517,nf
+2518,fect
+2519,tion.
+2520,. B
+2521,Bla
+2522,ack 
+2523, Ame
+2524,erica
+2525,"ans,"
+2526,", ac"
+2527,ccor
+2528,rd
+2529,ding t
+2530,to t
+2531,the C
+2532,Covi
+2533,id T
+2534,Trac
+2535,cki
+2536,ing P
+2537,Pro
+2538,oj
+2539,je
+2540,"ect,"
+2541,", ar"
+2542,re d
+2543,dy
+2544,yi
+2545,ing at
+2546,t a 
+2547, rat
+2548,te 2
+2549,2.5
+2550,5 t
+2551,times
+2552,s hi
+2553,ighe
+2554,er t
+2555,than
+2556,n tha
+2557,at o
+2558,of w
+2559,whit
+2560,te p
+2561,"people,"
+2562,", and t"
+2563,testing 
+2564, dis
+2565,spa
+2566,arit
+2567,ties
+2568,s m
+2569,mean
+2570,n B
+2571,Blac
+2572,ck 
+2573, and L
+2574,Lat
+2575,tinx
+2576,x p
+2577,people 
+2578, are
+2579,e mo
+2580,ore l
+2581,like
+2582,ely
+2583,y to “
+2584,“e
+2585,exper
+2586,rien
+2587,nce
+2588,e l
+2589,long
+2590,ger
+2591,r w
+2592,wait 
+2593, tim
+2594,mes a
+2595,and u
+2596,unde
+2597,erst
+2598,taf
+2599,ffed
+2600,d te
+2601,esting c
+2602,cen
+2603,nte
+2604,"ers,"
+2605,",” r"
+2606,rep
+2607,porte
+2608,ed A
+2609,AB
+2610,BC
+2611,C 
+2612, Ne
+2613,ews
+2614,s. B
+2615,Black
+2616,k an
+2617,nd A
+2618,As
+2619,sia
+2620,an A
+2621,Ameri
+2622,icans
+2623,s ha
+2624,ave a
+2625,als
+2626,so 
+2627, ex
+2628,xpe
+2629,erien
+2630,nced
+2631,d inc
+2632,crea
+2633,ased
+2634,d r
+2635,raci
+2636,ist 
+2637, ab
+2638,bus
+2639,se d
+2640,duri
+2641,ing th
+2642,he pan
+2643,ndem
+2644,mic t
+2645,that h
+2646,has m
+2647,mad
+2648,de m
+2649,mask
+2650,k-w
+2651,wear
+2652,ring
+2653,g a 
+2654, fra
+2655,aug
+2656,ght 
+2657, ch
+2658,hoi
+2659,ice
+2660,e. —
+2661,— Ya
+2662,asmi
+2663,in Tay
+2664,ya
+2665,"ag
+“"
+2666,“La
+2667,aun
+2668,nch
+2669,hed
+2670,d e
+2671,eff
+2672,fort
+2673,t to
+2674,o de
+2675,eli
+2676,iver 
+2677, a v
+2678,vac
+2679,cci
+2680,ine 
+2681, and t
+2682,thera
+2683,ape
+2684,eu
+2685,uti
+2686,ics 
+2687, in 
+2688, rec
+2689,cord 
+2690, time
+2691,e”
+2692,"”
+The"
+2693,e ad
+2694,dmi
+2695,inis
+2696,strati
+2697,ion h
+2698,has l
+2699,lau
+2700,unche
+2701,ed an
+2702,n e
+2703,effo
+2704,ort 
+2705, to r
+2706,ramp 
+2707, u
+2708,up v
+2709,vacc
+2710,cine
+2711,es an
+2712,nd t
+2713,therap
+2714,peu
+2715,utic
+2716,cs.
+2717,. Op
+2718,pera
+2719,ation W
+2720,Wa
+2721,arp
+2722,p S
+2723,Sp
+2724,pee
+2725,ed ai
+2726,ims
+2727,s to 
+2728, de
+2729,eliv
+2730,ver 
+2731, 300
+2732,0 m
+2733,mil
+2734,lli
+2735,ion d
+2736,dos
+2737,ses 
+2738, of a
+2739,a s
+2740,saf
+2741,"fe,"
+2742,", ef"
+2743,ffec
+2744,ctiv
+2745,ve v
+2746,vacci
+2747,ine f
+2748,for C
+2749,Covid
+2750,d-1
+2751,19 
+2752, by J
+2753,Janu
+2754,uary
+2755,y 20
+2756,02
+2757,21
+2758,1.
+2759,. E
+2760,Ef
+2761,ffo
+2762,orts
+2763,s to b
+2764,brin
+2765,ng a
+2766,a v
+2767,vaccin
+2768,ne to
+2769,o m
+2770,mar
+2771,rk
+2772,ket
+2773,t — b
+2774,bot
+2775,th b
+2776,by c
+2777,compa
+2778,anie
+2779,es in
+2780,n the 
+2781, U.S
+2782,S. a
+2783,and a
+2784,abr
+2785,roa
+2786,ad —
+2787,— ar
+2788,re p
+2789,prog
+2790,gres
+2791,ssin
+2792,ng at
+2793,t mu
+2794,uch 
+2795, fas
+2796,ster
+2797,r r
+2798,rate
+2799,es th
+2800,han u
+2801,usu
+2802,ual
+2803,l.
+2804,. There
+2805,e is
+2806,s s
+2807,som
+2808,me c
+2809,conce
+2810,ern
+2811,"n,"
+2812,", h"
+2813,how
+2814,weve
+2815,"er, "
+2816, am
+2817,mon
+2818,ng v
+2819,vaccine
+2820,e e
+2821,expert
+2822,ts t
+2823,that th
+2824,he pr
+2825,roc
+2826,cess
+2827,s co
+2828,ould
+2829,d mo
+2830,ove 
+2831, too
+2832,o f
+2833,fas
+2834,st.
+2835,. M
+2836,Mor
+2837,re tha
+2838,an 4
+2839,400
+2840,0 v
+2841,vaccine 
+2842, exp
+2843,pert
+2844,ts r
+2845,recen
+2846,ntly
+2847,y si
+2848,ign
+2849,ned
+2850,d a 
+2851, let
+2852,tte
+2853,er to
+2854,o S
+2855,Ste
+2856,eph
+2857,hen
+2858,n H
+2859,Ha
+2860,ah
+2861,hn
+2862,"n, "
+2863, the c
+2864,comm
+2865,missi
+2866,ioner
+2867,r of
+2868,f the
+2869,e U.
+2870,.S. F
+2871,Foo
+2872,od
+2873,d and
+2874,d D
+2875,Dr
+2876,rug
+2877,g A
+2878,Ad
+2879,dmin
+2880,nist
+2881,trati
+2882,ion (
+2883,(F
+2884,FD
+2885,DA
+2886,A)
+2887,"),"
+2888,", wr"
+2889,riti
+2890,ing tha
+2891,at the
+2892,ey
+2893,y wa
+2894,ant 
+2895, to “
+2896,“w
+2897,wit
+2898,tn
+2899,nes
+2900,ss 
+2901, a t
+2902,transp
+2903,par
+2904,rent
+2905,t an
+2906,nd r
+2907,rig
+2908,gor
+2909,rous
+2910,s F
+2911,FDA
+2912,A 
+2913, ap
+2914,ppro
+2915,ova
+2916,al p
+2917,proc
+2918,cess 
+2919, that
+2920,t is 
+2921, dev
+2922,voi
+2923,id o
+2924,of p
+2925,pol
+2926,lit
+2927,tica
+2928,al c
+2929,consi
+2930,idera
+2931,ations.
+2932,.” L
+2933,Lo
+2934,osi
+2935,ing p
+2936,public
+2937,c tr
+2938,rust
+2939,t in
+2940,n Co
+2941,ovid
+2942,d-19
+2943,9 v
+2944,vaccines
+2945,s d
+2946,due
+2947,e to n
+2948,not ta
+2949,aki
+2950,ing al
+2951,ll t
+2952,the n
+2953,nece
+2954,essa
+2955,ary t
+2956,time 
+2957, to co
+2958,onf
+2959,firm
+2960,m a
+2961,a va
+2962,acci
+2963,ine i
+2964,is s
+2965,safe
+2966,e an
+2967,nd e
+2968,effe
+2969,ecti
+2970,ive 
+2971, coul
+2972,ld be
+2973,e h
+2974,har
+2975,rmf
+2976,ful 
+2977, to t
+2978,the ca
+2979,aus
+2980,"se,"
+2981,", they"
+2982,y ar
+2983,rgu
+2984,ue.
+2985,. — A
+2986,Alex
+2987,xand
+2988,dr
+2989,ra Si
+2990,iff
+2991,fer
+2992,rlin
+2993,"n
+"
+2994,"
+“P"
+2995,Prov
+2996,vide
+2997,ed s
+2998,suppo
+2999,ort t
+3000,to w
+3001,work
+3002,ker
+3003,rs 
+3004, and b
+3005,busi
+3006,ines
+3007,sse
+3008,"es”
+"
+3009,"
+Th"
+3010,he T
+3011,Trump A
+3012,Adm
+3013,minist
+3014,tratio
+3015,on s
+3016,says
+3017,s the 
+3018, Pa
+3019,ayc
+3020,chec
+3021,ck P
+3022,Prot
+3023,tecti
+3024,ion P
+3025,Prog
+3026,gra
+3027,am 
+3028, hel
+3029,lp
+3030,ped
+3031,d sa
+3032,ave 5
+3033,51
+3034,1 
+3035, mil
+3036,llio
+3037,on A
+3038,Americ
+3039,can 
+3040, j
+3041,jo
+3042,obs
+3043,s. S
+3044,So
+3045,ome d
+3046,dispu
+3047,ute
+3048,e the 
+3049, accu
+3050,urac
+3051,cy 
+3052, of th
+3053,he 5
+3054,51 
+3055, mill
+3056,lio
+3057,on f
+3058,fig
+3059,gur
+3060,re.
+3061,. A 
+3062, R
+3063,Reu
+3064,uter
+3065,rs a
+3066,ana
+3067,aly
+3068,ysi
+3069,is o
+3070,of the d
+3071,dat
+3072,ta 
+3073, in J
+3074,July
+3075,y r
+3076,repo
+3077,orte
+3078,ed tha
+3079,at “
+3080,“t
+3081,there 
+3082, wer
+3083,re red
+3084,d fl
+3085,lags
+3086,s thr
+3087,roug
+3088,gho
+3089,out 
+3090, the co
+3091,olos
+3092,ssal
+3093,l da
+3094,ata
+3095,a se
+3096,et t
+3097,that s
+3098,sug
+3099,gges
+3100,sted 
+3101, som
+3102,me b
+3103,bor
+3104,rr
+3105,row
+3106,wers
+3107,s ov
+3108,vers
+3109,stat
+3110,ted h
+3111,how 
+3112, man
+3113,ny j
+3114,job
+3115,bs 
+3116, thei
+3117,ir l
+3118,loa
+3119,an s
+3120,sal
+3121,lv
+3122,vag
+3123,ged.
+3124,. Tha
+3125,"at,"
+3126,", co"
+3127,omb
+3128,bin
+3129,ned 
+3130, wit
+3131,th s
+3132,sev
+3133,veral
+3134,l o
+3135,of the n
+3136,nam
+3137,med 
+3138, comp
+3139,panie
+3140,es d
+3141,disput
+3142,ting t
+3143,that the
+3144,ey 
+3145, took
+3146,k a 
+3147, lo
+3148,oa
+3149,an a
+3150,aft
+3151,ter 
+3152, the go
+3153,overn
+3154,nme
+3155,ent 
+3156, sh
+3157,howe
+3158,ed o
+3159,otherw
+3160,wis
+3161,"se, "
+3162, cast
+3163,t d
+3164,dou
+3165,ubt
+3166,t on 
+3167, the ac
+3168,ccur
+3169,racy
+3170,y of 
+3171, the 5
+3172,51 m
+3173,mill
+3174,lion
+3175,n fi
+3176,igu
+3177,ure.
+3178,.” I
+3179,It
+3180,t is t
+3181,tru
+3182,ue 
+3183, that 
+3184, the Tr
+3185,rump
+3186,p a
+3187,admi
+3188,inist
+3189,tration
+3190,n “
+3191,“s
+3192,secure
+3193,ed di
+3194,ire
+3195,ect p
+3196,pay
+3197,yme
+3198,ents
+3199,s to h
+3200,hel
+3201,lp 
+3202, the cou
+3203,untl
+3204,les
+3205,ss A
+3206,America
+3207,ans w
+3208,who 
+3209, are 
+3210, hu
+3211,urt
+3212,ting d
+3213,due 
+3214, to th
+3215,he pand
+3216,demi
+3217,"ic,"
+3218,",” t"
+3219,tho
+3220,ough
+3221,h t
+3222,there a
+3223,are c
+3224,cav
+3225,vea
+3226,ats
+3227,s. P
+3228,Pres
+3229,side
+3230,ent T
+3231,Trump a
+3232,and C
+3233,Cong
+3234,gress
+3235,s ne
+3236,ego
+3237,oti
+3238,iat
+3239,ted a
+3240,a m
+3241,mass
+3242,siv
+3243,ve e
+3244,expa
+3245,ansi
+3246,ion o
+3247,of the U
+3248,U.S. u
+3249,unem
+3250,mpl
+3251,loy
+3252,ymen
+3253,nt p
+3254,progr
+3255,ram 
+3256, that i
+3257,incl
+3258,lud
+3259,ded
+3260,d an 
+3261, ext
+3262,tra 
+3263, $
+3264,$6
+3265,60
+3266,00 
+3267, per
+3268,r we
+3269,ee
+3270,ek 
+3271, on 
+3272, top
+3273,p o
+3274,of the b
+3275,ben
+3276,nef
+3277,fit
+3278,t un
+3279,nem
+3280,mplo
+3281,oy
+3282,yed
+3283,d w
+3284,worke
+3285,ers w
+3286,were r
+3287,recei
+3288,ivi
+3289,ing fr
+3290,rom t
+3291,their 
+3292, sta
+3293,ate.
+3294,. Bu
+3295,ut th
+3296,hat
+3297,t pr
+3298,rog
+3299,gram
+3300,m e
+3301,expi
+3302,ired
+3303,d at
+3304,t the 
+3305, en
+3306,nd o
+3307,of J
+3308,July.
+3309,. The W
+3310,White 
+3311, Hous
+3312,"se, h"
+3313,howev
+3314,"ver, "
+3315, wan
+3316,nted
+3317,d to 
+3318, redu
+3319,uce
+3320,e the $
+3321,$60
+3322,00 e
+3323,extr
+3324,ra b
+3325,bene
+3326,efi
+3327,it wh
+3328,hile
+3329,e D
+3330,Dem
+3331,moc
+3332,cra
+3333,ats 
+3334, in C
+3335,Congr
+3336,ress
+3337,s wan
+3338,nted 
+3339, to m
+3340,main
+3341,ntai
+3342,in i
+3343,it.
+3344,. In 
+3345, li
+3346,ieu
+3347,u 
+3348, of a 
+3349, new
+3350,w d
+3351,deal
+3352,"l,"
+3353,", the W"
+3354,White H
+3355,Hous
+3356,se a
+3357,ann
+3358,noun
+3359,nced 
+3360, an 
+3361, exe
+3362,ecut
+3363,tive
+3364,e ac
+3365,ctio
+3366,on to
+3367,o r
+3368,redi
+3369,irec
+3370,ct F
+3371,Fed
+3372,deral
+3373,l E
+3374,Em
+3375,merg
+3376,genc
+3377,cy M
+3378,Man
+3379,nag
+3380,gem
+3381,ment 
+3382, Ag
+3383,gency
+3384,y fu
+3385,unds
+3386,s to t
+3387,the u
+3388,unemp
+3389,plo
+3390,oye
+3391,ed.
+3392,. The p
+3393,progra
+3394,am’
+3395,’s e
+3396,effi
+3397,icac
+3398,cy i
+3399,is i
+3400,in d
+3401,doub
+3402,bt
+3403,t as
+3404,s ther
+3405,re’
+3406,’s o
+3407,only
+3408,y a 
+3409, fi
+3410,ix
+3411,xe
+3412,ed am
+3413,mou
+3414,unt 
+3415, av
+3416,vai
+3417,ila
+3418,able 
+3419, with
+3420,hou
+3421,ut n
+3422,new
+3423,w l
+3424,leg
+3425,gis
+3426,sla
+3427,ation a
+3428,and w
+3429,wou
+3430,uld
+3431,"d, a"
+3432,as t
+3433,the Wa
+3434,ash
+3435,hingt
+3436,ton
+3437,n P
+3438,Po
+3439,ost 
+3440, rep
+3441,ports
+3442,"s, o"
+3443,only 
+3444, giv
+3445,ve w
+3446,worker
+3447,rs $
+3448,$3
+3449,300
+3450,0 e
+3451,extra
+3452,a per
+3453,r wee
+3454,"ek,"
+3455,", n"
+3456,not th
+3457,he $
+3458,$4
+3459,400 
+3460, adv
+3461,vert
+3462,tis
+3463,sed b
+3464,by t
+3465,the P
+3466,Presi
+3467,ident
+3468,t.
+3469,. — Al
+3470,lexa
+3471,andra
+3472,a S
+3473,Siff
+3474,ferl
+3475,"lin
+“"
+3476,“Pa
+3477,aved
+3478,d wa
+3479,ay 
+3480, for r
+3481,reo
+3482,ope
+3483,eni
+3484,ing to 
+3485, get
+3486,t A
+3487,America 
+3488, wor
+3489,rki
+3490,ing ag
+3491,gai
+3492,in”
+3493,"”
+The "
+3494, Tr
+3495,rump 
+3496, admin
+3497,nistr
+3498,ratio
+3499,on d
+3500,doe
+3501,es h
+3502,have g
+3503,guide
+3504,elin
+3505,nes 
+3506, for re
+3507,eope
+3508,enin
+3509,ng the e
+3510,eco
+3511,ono
+3512,omy
+3513,"y, b"
+3514,but
+3515,t the P
+3516,Presid
+3517,dent
+3518,t has 
+3519, crit
+3520,tici
+3521,ized
+3522,d sc
+3523,cie
+3524,ence-
+3525,-b
+3526,back
+3527,ked 
+3528, reo
+3529,open
+3530,nin
+3531,ng g
+3532,guidel
+3533,lines 
+3534, deve
+3535,elop
+3536,ped 
+3537, by e
+3538,experts
+3539,s at
+3540,t the U
+3541,U.S. C
+3542,Cen
+3543,nter
+3544,rs f
+3545,for D
+3546,Dis
+3547,seas
+3548,se Co
+3549,ontr
+3550,rol 
+3551, and P
+3552,Prev
+3553,venti
+3554,ion (C
+3555,CD
+3556,DC
+3557,C)
+3558,).
+3559,. S
+3560,State
+3561,es ha
+3562,ave i
+3563,ind
+3564,div
+3565,vidu
+3566,uall
+3567,ly d
+3568,dev
+3569,velo
+3570,oped
+3571,d thei
+3572,ir o
+3573,own p
+3574,ph
+3575,hase
+3576,ed r
+3577,reop
+3578,pen
+3579,ning
+3580,g p
+3581,pla
+3582,"ans, "
+3583, and s
+3584,some
+3585,e nev
+3586,ver f
+3587,full
+3588,ly l
+3589,lock
+3590,ked d
+3591,dow
+3592,wn
+3593,n i
+3594,in th
+3595,he fi
+3596,irst
+3597,t pl
+3598,lace
+3599,e. S
+3600,States
+3601,s hav
+3602,ve r
+3603,reope
+3604,ened
+3605,d d
+3606,des
+3607,spi
+3608,ite t
+3609,the f
+3610,fact 
+3611, that t
+3612,the Un
+3613,nite
+3614,ed S
+3615,States 
+3616, doe
+3617,es no
+3618,ot h
+3619,have c
+3620,contro
+3621,ol o
+3622,of the v
+3623,virus.
+3624,. It’
+3625,’s r
+3626,resu
+3627,ulte
+3628,ed in 
+3629, wid
+3630,desp
+3631,pread
+3632,d ca
+3633,ases
+3634,s of C
+3635,Covid-
+3636,-19 
+3637, from
+3638,m b
+3639,busin
+3640,ness
+3641,ses l
+3642,like 
+3643, bar
+3644,"rs,"
+3645,", in"
+3646,ndo
+3647,oor 
+3648, rest
+3649,tau
+3650,uran
+3651,nts
+3652,"s, a"
+3653,and sc
+3654,cho
+3655,ool
+3656,ls
+3657,s. Th
+3658,he Whi
+3659,ite H
+3660,House
+3661,e sa
+3662,ays 
+3663, in i
+3664,its b
+3665,brief
+3666,f tha
+3667,at i
+3668,it “
+3669,“f
+3670,fl
+3671,latt
+3672,tene
+3673,ed the
+3674,e cu
+3675,urv
+3676,ve”
+3677,” a
+3678,and “
+3679,“r
+3680,rap
+3681,pid
+3682,dly
+3683,y e
+3684,expan
+3685,nded
+3686,d tes
+3687,stin
+3688,"ng,"
+3689,",” n"
+3690,neit
+3691,ther 
+3692, of w
+3693,whic
+3694,ch a
+3695,are t
+3696,true
+3697,e. C
+3698,Cas
+3699,ses o
+3700,of C
+3701,Covid-1
+3702,19 c
+3703,continu
+3704,ue t
+3705,to ri
+3706,ise 
+3707, and w
+3708,wait t
+3709,time f
+3710,for te
+3711,ests 
+3712, rem
+3713,main 
+3714, up
+3715,p t
+3716,to tw
+3717,wo w
+3718,wee
+3719,eks
+3720,s. — 
+3721, Al
+3722,lexan
+3723,ndra
+3724,a Si
+3725,iffe
+3726,erli
+3727,"in
+“"
+3728,“S
+3729,Su
+3730,urge
+3731,ed re
+3732,eso
+3733,ourc
+3734,ces 
+3735, to h
+3736,hot
+3737,t sp
+3738,pot
+3739,ts a
+3740,as th
+3741,hey 
+3742, aro
+3743,ose”
+3744,"”
+A"
+3745,At
+3746,t the b
+3747,begi
+3748,inn
+3749,ning 
+3750, of the
+3751,e pa
+3752,"andemic,"
+3753,", the Wh"
+3754,hite
+3755,e Hou
+3756,use d
+3757,deni
+3758,ied
+3759,d p
+3760,plea
+3761,as f
+3762,from
+3763,m s
+3764,state
+3765,e g
+3766,gove
+3767,erno
+3768,ors a
+3769,and he
+3770,ealth c
+3771,car
+3772,re of
+3773,ffi
+3774,ici
+3775,ial
+3776,ls 
+3777, for p
+3778,pers
+3779,son
+3780,nal 
+3781, pr
+3782,rote
+3783,ectiv
+3784,ve eq
+3785,qui
+3786,ip
+3787,pm
+3788,ment (
+3789,(P
+3790,PP
+3791,PE
+3792,E)
+3793,) 
+3794, and o
+3795,other 
+3796, med
+3797,dic
+3798,cal
+3799,l t
+3800,tool
+3801,ls:
+3802,: “
+3803,“R
+3804,Res
+3805,spir
+3806,rato
+3807,"ors,"
+3808,", v"
+3809,ventil
+3810,lator
+3811,"rs, "
+3812, al
+3813,ll o
+3814,of the e
+3815,eq
+3816,quip
+3817,pme
+3818,ent —
+3819,— tr
+3820,ry 
+3821, gett
+3822,ting i
+3823,it y
+3824,yo
+3825,ours
+3826,sel
+3827,lve
+3828,"es,”"
+3829,” t
+3830,the pr
+3831,resid
+3832,dent 
+3833, told
+3834,d g
+3835,gover
+3836,rnor
+3837,rs i
+3838,in M
+3839,Marc
+3840,ch.
+3841,. There 
+3842, was 
+3843, a d
+3844,dir
+3845,re sh
+3846,hort
+3847,tage
+3848,e of 
+3849, N9
+3850,95 
+3851, mask
+3852,"ks,"
+3853,", whi"
+3854,ich 
+3855, fron
+3856,ntli
+3857,ine h
+3858,healt
+3859,th c
+3860,care
+3861,e wo
+3862,orke
+3863,ers n
+3864,nee
+3865,eded 
+3866, to p
+3867,prote
+3868,ect t
+3869,them
+3870,mse
+3871,elv
+3872,"ves,"
+3873,", in "
+3874, mid
+3875,d-M
+3876,March
+3877,h.
+3878,. As
+3879,s me
+3880,enti
+3881,ioned
+3882,d ab
+3883,bov
+3884,"ve,"
+3885,", Tr"
+3886,rump r
+3887,resis
+3888,sted i
+3889,inv
+3890,voki
+3891,ing the
+3892,e De
+3893,efe
+3894,ens
+3895,se P
+3896,Prod
+3897,ducti
+3898,ion A
+3899,"Act,"
+3900,", whic"
+3901,ch w
+3902,woul
+3903,ld a
+3904,allo
+3905,ow t
+3906,the coun
+3907,ntry
+3908,y to d
+3909,dire
+3910,ect pr
+3911,riv
+3912,vat
+3913,te c
+3914,compan
+3915,nie
+3916,es to
+3917,o ma
+3918,ake 
+3919, PP
+3920,PE;
+3921,; 
+3922, it 
+3923, was f
+3924,fin
+3925,nall
+3926,ly u
+3927,used
+3928,d to c
+3929,compe
+3930,el G
+3931,Gen
+3932,neral
+3933,l M
+3934,Mot
+3935,tor
+3936,rs t
+3937,to b
+3938,bui
+3939,ild
+3940,d v
+3941,ventila
+3942,ator
+3943,rs at
+3944,t the e
+3945,end 
+3946, of M
+3947,"March,"
+3948,", and 3"
+3949,3M
+3950,M 
+3951, was a
+3952,ask
+3953,ked t
+3954,to ma
+3955,ake m
+3956,masks
+3957,s in e
+3958,ear
+3959,rly
+3960,y A
+3961,Ap
+3962,pril
+3963,l. 
+3964, Ar
+3965,roun
+3966,nd th
+3967,hat 
+3968," time,"
+3969,", the p"
+3970,preside
+3971,ent c
+3972,critic
+3973,ciz
+3974,ze
+3975,ed a 
+3976, wat
+3977,tch
+3978,hd
+3979,dog
+3980,g r
+3981,repor
+3982,rt 
+3983, from 
+3984, the H
+3985,Heal
+3986,lth 
+3987, and H
+3988,Hu
+3989,uman
+3990,n S
+3991,Se
+3992,erv
+3993,vic
+3994,ces i
+3995,insp
+3996,pec
+3997,ctor
+3998,r g
+3999,gene
+4000,eral’
+4001,’s of
+4002,ffic
+4003,ce t
+4004,that sa
+4005,aid 
+4006, ho
+4007,osp
+4008,pit
+4009,tal
+4010,ls w
+4011,were i
+4012,in di
+4013,ire 
+4014, nee
+4015,ed of
+4016,f P
+4017,PPE
+4018,E 
+4019, and te
+4020,"ests,"
+4021,", sa"
+4022,ayi
+4023,ing “
+4024,“I
+4025,It 
+4026, is w
+4027,wr
+4028,rong
+4029,g.”
+4030,” T
+4031,Tod
+4032,"day,"
+4033,", there"
+4034,e are
+4035,e sti
+4036,ill 
+4037, seve
+4038,ere 
+4039, testi
+4040,ing sh
+4041,horta
+4042,age
+4043,es ac
+4044,cro
+4045,oss 
+4046, the coun
+4047,ntry 
+4048, du
+4049,ue to
+4050,o l
+4051,lack
+4052,k o
+4053,of te
+4054,ests a
+4055,and un
+4056,neq
+4057,qual
+4058,l di
+4059,istri
+4060,ibu
+4061,utio
+4062,on o
+4063,of r
+4064,reso
+4065,ource
+4066,"es, "
+4067, esp
+4068,peci
+4069,iall
+4070,ly in
+4071,n c
+4072,commu
+4073,uni
+4074,ities
+4075,s of c
+4076,col
+4077,lor
+4078,r.
+4079,. — Ya
+4080,asmin
+4081,n T
+4082,Tay
+4083,yag
+4084,"g
+“"
+4085,“C
+4086,Conf
+4087,fron
+4088,nted C
+4089,Chin
+4090,na 
+4091, as o
+4092,orig
+4093,gin 
+4094, of the 
+4095, vir
+4096,rus 
+4097, whi
+4098,ile 
+4099, De
+4100,emoc
+4101,crat
+4102,ts an
+4103,nd m
+4104,medi
+4105,ia 
+4106, cow
+4107,wered
+4108,d”
+4109,"”
+S"
+4110,Sc
+4111,cien
+4112,ntis
+4113,sts
+4114,s wi
+4115,idely
+4116,y ag
+4117,gree
+4118,e tha
+4119,at the 
+4120, cor
+4121,ronav
+4122,virus ha
+4123,as a
+4124,a n
+4125,natu
+4126,ural
+4127,l or
+4128,rigi
+4129,in an
+4130,nd j
+4131,ju
+4132,umpe
+4133,ed to 
+4134, hum
+4135,mans
+4136,s fr
+4137,rom a
+4138,an an
+4139,nim
+4140,mal
+4141,"l, "
+4142, mos
+4143,st l
+4144,likel
+4145,ly ba
+4146,ats.
+4147,. St
+4148,til
+4149,ll th
+4150,he pre
+4151,esi
+4152,ident 
+4153, has f
+4154,fre
+4155,equ
+4156,uen
+4157,ntly 
+4158, bl
+4159,lam
+4160,med C
+4161,China
+4162,a f
+4163,for th
+4164,he vir
+4165,rus a
+4166,and r
+4167,ref
+4168,ferr
+4169,red t
+4170,to C
+4171,Covid-19
+4172,9 a
+4173,as the
+4174,e “
+4175,“Ch
+4176,hina 
+4177, viru
+4178,us”
+4179,” o
+4180,or “
+4181,“Wu
+4182,uh
+4183,han v
+4184,virus”
+4185,” i
+4186,in p
+4187,public 
+4188, add
+4189,dre
+4190,esse
+4191,es. I
+4192,In d
+4193,doi
+4194,ing so
+4195,o h
+4196,he i
+4197,inco
+4198,orr
+4199,rect
+4200,tly
+4201,y con
+4202,nfl
+4203,lated
+4204,d the l
+4205,loca
+4206,ation o
+4207,of the f
+4208,firs
+4209,st k
+4210,kno
+4211,own o
+4212,outb
+4213,break
+4214,"k, "
+4215, whic
+4216,ch i
+4217,is W
+4218,Wu
+4219,uha
+4220,"an,"
+4221,", wi"
+4222,ith t
+4223,the o
+4224,origi
+4225,in o
+4226,of the vi
+4227,"irus, "
+4228, the l
+4229,locat
+4230,tion o
+4231,of wh
+4232,hich 
+4233, is un
+4234,nk
+4235,know
+4236,wn.
+4237,. Tr
+4238,rump b
+4239,bla
+4240,ame
+4241,ed C
+4242,China 
+4243, for t
+4244,the pa
+4245,andemic 
+4246, whe
+4247,en h
+4248,he m
+4249,made
+4250,e hi
+4251,is d
+4252,deci
+4253,isi
+4254,ion to 
+4255, remo
+4256,ove t
+4257,the U.
+4258,.S. f
+4259,from 
+4260, the Wo
+4261,orld 
+4262, Hea
+4263,alth 
+4264, Or
+4265,rga
+4266,aniz
+4267,zati
+4268,ion a
+4269,at the e
+4270,end o
+4271,of M
+4272,May
+4273,"y.
+"
+4274,"
+S"
+4275,Sci
+4276,ient
+4277,tist
+4278,ts al
+4279,lso
+4280,o w
+4281,wide
+4282,ely 
+4283, ag
+4284,gree 
+4285, that th
+4286,he viru
+4287,us w
+4288,was no
+4289,ot b
+4290,bio
+4291,oen
+4292,ngi
+4293,inee
+4294,ered
+4295,d.
+4296,. But
+4297,t at
+4298,t the en
+4299,nd of
+4300,f Ap
+4301,"pril,"
+4302,", Tru"
+4303,ump 
+4304, als
+4305,so g
+4306,gav
+4307,ve u
+4308,undu
+4309,ue c
+4310,cred
+4311,denc
+4312,ce to
+4313,o the 
+4314, cons
+4315,spira
+4316,acy
+4317,y th
+4318,heo
+4319,ory 
+4320, that the
+4321,e v
+4322,virus e
+4323,emerge
+4324,ed fr
+4325,rom a 
+4326, Wu
+4327,uhan
+4328,n l
+4329,"lab,"
+4330,", say"
+4331,yin
+4332,ng in
+4333,n a
+4334,a W
+4335,White Ho
+4336,ouse 
+4337, pre
+4338,ess 
+4339, confe
+4340,eren
+4341,nce:
+4342,: “W
+4343,We’
+4344,’r
+4345,re l
+4346,loo
+4347,oki
+4348,ing at 
+4349, it;
+4350,; a
+4351,a lo
+4352,ot o
+4353,of pe
+4354,eopl
+4355,le ar
+4356,re lo
+4357,ook
+4358,kin
+4359,ng at 
+4360, it; 
+4361, it s
+4362,see
+4363,ems
+4364,s to m
+4365,make
+4366,e se
+4367,ense
+4368,e.”
+4369,” H
+4370,He 
+4371, has b
+4372,been 
+4373, wide
+4374,ely c
+4375,critici
+4376,ized 
+4377, for b
+4378,blam
+4379,ming
+4380,g C
+4381,China f
+4382,for the
+4383,e vi
+4384,irus b
+4385,beca
+4386,ause
+4387,e do
+4388,oing
+4389,g s
+4390,so h
+4391,has r
+4392,resul
+4393,lte
+4394,ed in i
+4395,incr
+4396,reas
+4397,sed x
+4398,xen
+4399,nop
+4400,pho
+4401,obi
+4402,ia i
+4403,in the
+4404,e U.S
+4405,S. T
+4406,This
+4407,s x
+4408,xeno
+4409,oph
+4410,hob
+4411,bia
+4412,"a,"
+4413,", which"
+4414,h ha
+4415,ad a
+4416,alr
+4417,read
+4418,dy 
+4419, wors
+4420,sene
+4421,ed as
+4422,s a r
+4423,result
+4424,t of 
+4425, det
+4426,teri
+4427,ior
+4428,ratin
+4429,ng C
+4430,China-
+4431,-U
+4432,U.S. r
+4433,rela
+4434,ations 
+4435, on m
+4436,mat
+4437,tter
+4438,rs th
+4439,hat a
+4440,are n
+4441,not C
+4442,Covid-19 
+4443, rela
+4444,ated
+4445,"d, h"
+4446,has ma
+4447,ade
+4448,e li
+4449,ife
+4450,e da
+4451,ang
+4452,gero
+4453,ous f
+4454,for ma
+4455,any 
+4456, Chin
+4457,nese
+4458,e-
+4459,-A
+4460,American
+4461,ns a
+4462,and ot
+4463,ther A
+4464,Asi
+4465,ian
+4466,n-
+4467,-Am
+4468,merica
+4469,ans. 
+4470, E
+4471,Ex
+4472,xper
+4473,rts 
+4474, war
+4475,rn 
+4476, that a
+4477,a po
+4478,oor r
+4479,relat
+4480,tionsh
+4481,hip 
+4482, bet
+4483,tw
+4484,ween
+4485,n the t
+4486,two
+4487,o co
+4488,ountr
+4489,ries w
+4490,wil
+4491,ll h
+4492,hinde
+4493,er th
+4494,he in
+4495,ntern
+4496,nationa
+4497,al co
+4498,oop
+4499,perat
+4500,tion r
+4501,req
+4502,quir
+4503,red to
+4504,o be
+4505,eat 
+4506, a g
+4507,glo
+4508,oba
+4509,al pa
+4510,andemic.
+4511,. — Yas
+4512,smin
+4513,n Ta
+4514,"ayag
+"
