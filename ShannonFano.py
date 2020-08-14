@@ -7,14 +7,6 @@ def generate(bin_code = '', char = [],total = 0, _dict ={}):
         return
     count = char[0][0]
     i = 1
-    # while True:
-    #     left = count + char[i][0]
-    #     right = total - left
-    #     if left*2 > total:
-    #         if left*2-total >= total - count*2:
-    #             break
-    #     count += char[i][0]
-    #     i+=1
     while True:
         left = count + char[i][0]
         right = total - left

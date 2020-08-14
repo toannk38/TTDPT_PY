@@ -90,14 +90,14 @@ def decode(inp, out):
     #decode
     output = ''
     s = ''
-    print(data)
+
     for c in data:
         if s+c not in _dict:
             s+=c
         else:
             output+=_dict[s+c]
             s = ''
-    print(output)
+
     # save decoded data
     file = open(out, 'w')
     file.write(output)
