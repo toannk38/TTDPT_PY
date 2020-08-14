@@ -18,10 +18,8 @@ def main():
     HC_ratio =  [round(x[0]/x[1],2) for x in _HC]
 
     statistic = {'files':names, 'RLC':RLC_ratio, 'LZW':LZW_ratio,'SF':SF_ratio, 'HC':HC_ratio}
-
     df = pd.DataFrame(statistic)
     df.to_csv('statistic.csv',index= False)
-
 
 main()
 
