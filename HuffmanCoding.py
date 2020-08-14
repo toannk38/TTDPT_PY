@@ -30,6 +30,9 @@ def encode(inp,out):
     content = ''.join(content)
     if content == '':
         return
+
+    bits_data = len(content) * 8
+
     #character statistic
     count = Counter(content)
 
@@ -53,6 +56,7 @@ def encode(inp,out):
     #create dictionary
     _dict = dict()
     generate(bin_code = '',node = char[0],_dict = _dict)
+
     #encode
     code = ''
     for c in content:
@@ -62,6 +66,7 @@ def encode(inp,out):
     file.write(code)
     file.close()
 
+    bits_compressed = len(code)
     #decode dictionary
     dict_path = out[:-4] + '_dict.csv'
 
@@ -73,6 +78,8 @@ def encode(inp,out):
     encoded = {'keys': list(keys), 'values': list(values)}
     df = pd.DataFrame(encoded)
     df.to_csv(dict_path, index=False)
+
+    return bits_data,bits_compressed
 
 
 def decode(inp, out):
@@ -105,9 +112,12 @@ def decode(inp, out):
 
 
 def hc(names):
+    res = []
     for name in names:
         data_path = 'Data/' + name + '.txt'
         encode_path = 'Compressed/' + name + '_HC.txt'
         decode_path = 'Decompressed/' + name + '_HC.txt'
-        encode(data_path, encode_path)
+        bits = encode(data_path, encode_path)
         decode(encode_path, decode_path)
+        res.append(bits)
+    return res

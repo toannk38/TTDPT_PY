@@ -6,6 +6,7 @@ def encode(inp,out):
         content = f.readlines()
     content = ''.join(content)
 
+    bits_data = len(content*8)
     if content == '':
         return
 
@@ -31,6 +32,9 @@ def encode(inp,out):
     else:
         compressed.append(_dict[s])
 
+    #using unsign interger 16 bit
+    bits_compressed = len(compressed)*16
+
     file = open(out,'w')
     s = ''
     for i in compressed:
@@ -48,6 +52,7 @@ def encode(inp,out):
     df = pd.DataFrame(encoded)
     df.to_csv(dict_path,index = False)
 
+    return bits_data, bits_compressed
 
 def decode(inp, out):
     dict_path = inp[:-4]+'_dict.csv'
@@ -78,9 +83,12 @@ def decode(inp, out):
 
 
 def lzw(names):
+    res = []
     for name in names:
         data_path = 'Data/' + name + '.txt'
         encode_path = 'Compressed/' + name + '_LZW.txt'
         decode_path = 'Decompressed/' + name + '_LZW.txt'
-        encode(data_path, encode_path)
+        bits = encode(data_path, encode_path)
         decode(encode_path, decode_path)
+        res.append(bits)
+    return res

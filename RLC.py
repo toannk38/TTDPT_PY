@@ -53,10 +53,12 @@ def decode(inp,out):
 
 
 def rlc(names):
+    res = []
     for name in names:
         data_path = 'Data/'+name+'.txt'
         encode_path = 'Compressed/'+name+'_RLC.txt'
         decode_path = 'Decompressed/'+name+'_RLC.txt'
         bits = encode(data_path,encode_path)
         decode(encode_path,decode_path)
-        return bits
+        res.append(bits)
+    return res

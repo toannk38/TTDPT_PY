@@ -25,6 +25,9 @@ def encode(inp,out):
     content = ''.join(content)
     if content == '':
         return
+
+    bits_data = len(content)*8
+
     #character statistic
     count = Counter(content)
 
@@ -47,9 +50,10 @@ def encode(inp,out):
     file.write(code)
     file.close()
 
+    bits_compressed = len(code)
+
     #decode dictionary
     dict_path = out[:-4] + '_dict.csv'
-
     keys = []
     values = []
     for key in _dict:
@@ -59,6 +63,7 @@ def encode(inp,out):
     df = pd.DataFrame(encoded)
     df.to_csv(dict_path, index=False)
 
+    return bits_data,bits_compressed
 
 def decode(inp, out):
     dict_path = inp[:-4] + '_dict.csv'
@@ -67,7 +72,6 @@ def decode(inp, out):
     keys = list(df['keys'])
     values = list(df['values'])
     _dict = dict(zip(keys,values))
-    print(_dict)
     #read data
     with open(inp) as f:
         data = f.readlines()
@@ -76,23 +80,24 @@ def decode(inp, out):
     #decode
     output = ''
     s = ''
-    print(data)
     for c in data:
         if s+c not in _dict:
             s+=c
         else:
             output+=_dict[s+c]
             s = ''
-    print(output)
     # save decoded data
     file = open(out, 'w')
     file.write(output)
     file.close()
 
 def sf(names):
+    res = []
     for name in names:
         data_path = 'Data/' + name + '.txt'
         encode_path = 'Compressed/' + name + '_SF.txt'
         decode_path = 'Decompressed/' + name + '_SF.txt'
-        encode(data_path, encode_path)
+        bits = encode(data_path, encode_path)
         decode(encode_path, decode_path)
+        res.append(bits)
+    return res
